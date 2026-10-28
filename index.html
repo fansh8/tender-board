@@ -212,6 +212,48 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px}
 .lock-card input+input{margin-top:10px}
 @media (max-width:700px){.clock{display:none}}
 
+
+.logo{overflow:hidden;background:transparent;padding:0}
+.logo img{width:100%;height:100%;object-fit:cover;border-radius:10px;display:block}
+.mobile-status{display:none}
+@media (max-width:700px){
+  .mobile-status{display:flex;gap:10px;align-items:center;padding-top:6px;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+}
+
+
+.sheet-mask{position:fixed;inset:0;background:rgba(0,0,0,.25);z-index:90;display:none}
+.sheet-mask.on{display:block}
+.sheet{position:fixed;z-index:91;right:20px;top:72px;width:320px;background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 18px 50px rgba(0,0,0,.2);display:none;overflow:hidden}
+.sheet.on{display:block}
+.sheet-head{display:flex;justify-content:space-between;align-items:center;padding:14px 16px;font-weight:600;border-bottom:1px solid var(--line)}
+.sheet-head button{border:none;background:none;color:var(--blue);font-size:14px}
+.sheet-body{padding:10px 16px 16px}
+.set-row{display:flex;justify-content:space-between;align-items:center;padding:9px 0;font-size:14px;gap:10px}
+.set-row select{max-width:130px}
+.seg{display:flex;background:rgba(118,118,128,.12);border-radius:9px;padding:2px}
+.seg button{border:none;background:none;padding:4px 8px;border-radius:7px;font-size:12px;color:var(--muted);white-space:nowrap}
+.seg button.on{background:var(--card);color:var(--text);font-weight:600;box-shadow:0 1px 2px rgba(0,0,0,.12)}
+.set-reset{width:100%;margin-top:10px;padding:9px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--red);font-size:13px}
+html[data-theme="dark"]{--bg:#000;--card:#1c1c1e;--text:#f2f2f7;--muted:#8e8e93;--line:rgba(84,84,88,.65);--blue:#0a84ff;--blue-soft:rgba(10,132,255,.22);--shadow:none}
+html[data-theme="dark"] .topbar{background:rgba(0,0,0,.72);color:#f2f2f7}
+html[data-theme="dark"] .card-title,html[data-theme="dark"] .pdate{color:#f2f2f7}
+html[data-theme="dark"] .org,html[data-theme="dark"] .h-item{color:#d1d1d6}
+html[data-theme="dark"] .pill{background:rgba(118,118,128,.24);color:#d1d1d6}
+html[data-theme="dark"] .tag{background:rgba(118,118,128,.2);color:#d1d1d6;border-color:transparent}
+html[data-theme="dark"] .tag.cat{background:rgba(10,132,255,.22);color:#64a8ff;border-color:transparent}
+html[data-font="large"] body{font-size:16px}
+html[data-font="large"] .card-title{font-size:16px}
+html[data-density="compact"] .card{padding:10px 12px}
+html[data-density="compact"] .list{gap:7px}
+.mobile-nav{display:none}
+@media (max-width:700px){
+  .mobile-nav{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:80;background:rgba(255,255,255,.88);backdrop-filter:saturate(180%) blur(20px);border-top:1px solid var(--line);padding:6px 8px calc(6px + env(safe-area-inset-bottom))}
+  .mobile-nav button{flex:1;border:none;background:none;font-size:11px;color:var(--muted);padding:4px}
+  .mobile-nav button.on{color:var(--blue);font-weight:600}
+  body{padding-bottom:66px}
+  .sheet{left:12px;right:12px;width:auto;top:auto;bottom:76px;border-radius:18px}
+}
+
 </style>
 
 <link rel="icon" type="image/png" sizes="32x32" href="icon-32.png">
@@ -239,7 +281,7 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px}
   <div class="topbar-in">
     <button class="menu-btn" id="menuBtn">☰ 筛选</button>
     <div class="brand">
-      <div class="logo">🏥</div>
+      <div class="logo"><img src="icon-192.png" alt=""></div>
       <div>
         <h1>京津冀医院招标看板</h1>
         <div class="sub">北京优先 · 政府采购 + 军队采购 · 检验科细分</div>
@@ -248,10 +290,12 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px}
     <div class="top-right">
       <span class="clock" id="clock">--:--:--</span>
       <span class="upd" id="upd">数据加载中…</span>
+      <button class="btn-ghost" id="settingsBtn">⚙</button>
       <button class="btn-ghost" id="refreshBtn">刷新</button>
       <button class="btn-ghost" id="toggleFav">★ 关注</button>
     </div>
   </div>
+  <div class="mobile-status"><span id="mclock">--:--:--</span><span id="mupd">数据加载中…</span></div>
 </header>
 
 <div class="overlay" id="overlay"></div>
@@ -385,7 +429,9 @@ function renderUpdated(){
   var p=function(n){ return ('0'+n).slice(-2); };
   var mins=Math.floor((Date.now()-t.getTime())/60000);
   var rel = mins<1 ? '刚刚' : (mins<60 ? mins+' 分钟前' : Math.floor(mins/60)+' 小时前');
-  $('#upd').textContent='更新 '+p(t.getHours())+':'+p(t.getMinutes())+' · '+rel;
+  var txt='更新 '+p(t.getHours())+':'+p(t.getMinutes())+' · '+rel;
+  $('#upd').textContent=txt;
+  var mu=document.getElementById('mupd'); if(mu) mu.textContent=txt;
 }
 setInterval(function(){ if(window.DATA) renderUpdated(); }, 30000);
 
@@ -611,10 +657,111 @@ setInterval(() => { if(document.visibilityState === 'visible') load(); }, 5 * 60
 (function(){
   function tick(){
     var d=new Date(), p=function(n){ return ('0'+n).slice(-2); };
-    var el=document.getElementById('clock'); if(el) el.textContent=p(d.getHours())+':'+p(d.getMinutes())+':'+p(d.getSeconds());
+    var v=p(d.getHours())+':'+p(d.getMinutes())+':'+p(d.getSeconds());
+    var el=document.getElementById('clock'); if(el) el.textContent=v;
+    var el2=document.getElementById('mclock'); if(el2) el2.textContent=v;
   }
   tick(); setInterval(tick,1000);
 })();
 </script>
+
+<div class="sheet-mask" id="settingsMask"></div>
+<div class="sheet" id="settingsSheet">
+  <div class="sheet-head"><span>设置</span><button id="closeSettings">完成</button></div>
+  <div class="sheet-body">
+    <div class="set-row"><span>主题</span><div class="seg" id="themeSeg"><button data-v="auto">跟随系统</button><button data-v="light">浅色</button><button data-v="dark">深色</button></div></div>
+    <div class="set-row"><span>字号</span><div class="seg" id="fontSeg"><button data-v="normal">标准</button><button data-v="large">大</button></div></div>
+    <div class="set-row"><span>密度</span><div class="seg" id="densitySeg"><button data-v="comfort">舒适</button><button data-v="compact">紧凑</button></div></div>
+    <div class="set-row"><span>默认地区</span><select id="defRegion"><option>北京</option><option>全部</option><option>天津</option><option>河北</option></select></div>
+    <div class="set-row"><span>默认品类</span><select id="defCat"><option>检验科</option><option>全部</option></select></div>
+    <div class="set-row"><span>记住上次筛选</span><input type="checkbox" id="rememberFilters"></div>
+    <button class="set-reset" id="resetSettings">恢复默认</button>
+  </div>
+</div>
+<nav class="mobile-nav" id="mobileNav">
+  <button data-act="top">看板</button>
+  <button data-act="filter">筛选</button>
+  <button data-act="settings">设置</button>
+  <button data-act="fav">关注</button>
+</nav>
+<script>
+(function(){
+  var root=document.documentElement;
+  var S={};
+  try{ S=JSON.parse(localStorage.getItem('jjkb_settings')||'{}'); }catch(e){}
+  S.theme=S.theme||'auto'; S.font=S.font||'normal'; S.density=S.density||'comfort';
+  S.region=S.region||'北京'; S.cat=S.cat||'全部'; S.remember=!!S.remember;
+  function applyTheme(){
+    if(S.theme==='auto'){ root.removeAttribute('data-theme'); } else { root.setAttribute('data-theme',S.theme); }
+    root.setAttribute('data-font',S.font); root.setAttribute('data-density',S.density);
+  }
+  function save(){ localStorage.setItem('jjkb_settings',JSON.stringify(S)); applyTheme(); }
+  applyTheme();
+  function syncTabs(){
+    document.querySelectorAll('#regionTabs .tab').forEach(function(b){ b.classList.toggle('active', b.dataset.region===state.region); });
+    var ss=document.getElementById('statusSel'); if(ss) ss.value=state.status;
+    var so=document.getElementById('sourceSel'); if(so) so.value=state.source;
+    var sr=document.getElementById('sortSel'); if(sr) sr.value=state.sort;
+  }
+  if(S.remember){
+    try{ var F=JSON.parse(localStorage.getItem('jjkb_filters')||'null'); if(F){ Object.keys(F).forEach(function(k){ if(F[k]!==undefined) state[k]=F[k]; }); } }catch(e){}
+  } else {
+    state.region=S.region; state.cat=S.cat; state.subcat='全部';
+  }
+  syncTabs();
+  setInterval(function(){
+    if(!S.remember) return;
+    try{ localStorage.setItem('jjkb_filters',JSON.stringify({region:state.region,cat:state.cat,subcat:state.subcat,status:state.status,source:state.source,sort:state.sort,q:state.q})); }catch(e){}
+  },1500);
+  function mark(){
+    [['themeSeg','theme'],['fontSeg','font'],['densitySeg','density']].forEach(function(pair){
+      var seg=document.getElementById(pair[0]); if(!seg) return;
+      seg.querySelectorAll('button').forEach(function(b){ b.classList.toggle('on', S[pair[1]]===b.dataset.v); });
+    });
+    var dr=document.getElementById('defRegion'); if(dr) dr.value=S.region;
+    var dc=document.getElementById('defCat'); if(dc) dc.value=S.cat;
+    var rm=document.getElementById('rememberFilters'); if(rm) rm.checked=S.remember;
+  }
+  mark();
+  [['themeSeg','theme'],['fontSeg','font'],['densitySeg','density']].forEach(function(pair){
+    var seg=document.getElementById(pair[0]); if(!seg) return;
+    seg.querySelectorAll('button').forEach(function(b){ b.onclick=function(){ S[pair[1]]=b.dataset.v; save(); mark(); }; });
+  });
+  var dr=document.getElementById('defRegion');
+  if(dr) dr.onchange=function(){ S.region=this.value; if(!S.remember){ state.region=S.region; syncTabs(); renderChips(); renderList(); } save(); };
+  var dc=document.getElementById('defCat');
+  if(dc) dc.onchange=function(){ S.cat=this.value; if(!S.remember){ state.cat=S.cat; state.subcat='全部'; renderChips(); renderList(); } save(); };
+  var rm=document.getElementById('rememberFilters');
+  if(rm) rm.onchange=function(){ S.remember=this.checked; if(!this.checked){ localStorage.removeItem('jjkb_filters'); } save(); };
+  var mask=document.getElementById('settingsMask'), sheet=document.getElementById('settingsSheet');
+  function openSettings(){ mask.classList.add('on'); sheet.classList.add('on'); }
+  function closeSettings(){ mask.classList.remove('on'); sheet.classList.remove('on'); }
+  document.getElementById('settingsBtn').onclick=openSettings;
+  document.getElementById('closeSettings').onclick=closeSettings;
+  mask.onclick=closeSettings;
+  document.getElementById('resetSettings').onclick=function(){
+    S={theme:'auto',font:'normal',density:'comfort',region:'北京',cat:'全部',remember:false};
+    localStorage.setItem('jjkb_settings',JSON.stringify(S));
+    localStorage.removeItem('jjkb_filters');
+    state.region='北京'; state.cat='全部'; state.subcat='全部'; state.status='进行中'; state.source='全部'; state.q=''; state.favOnly=false; state.sort='date';
+    applyTheme(); mark(); syncTabs(); renderChips(); renderList();
+  };
+  document.querySelectorAll('#mobileNav button').forEach(function(b){
+    b.onclick=function(){
+      var a=b.dataset.act;
+      if(a==='top'){ window.scrollTo({top:0,behavior:'smooth'}); }
+      if(a==='filter'){ var tb=document.querySelector('.toolbar'); if(tb) tb.scrollIntoView({behavior:'smooth',block:'start'}); }
+      if(a==='settings'){ openSettings(); }
+      if(a==='fav'){ state.favOnly=!state.favOnly; b.classList.toggle('on',state.favOnly); renderList(); }
+    };
+  });
+  document.addEventListener('keydown',function(e){
+    if(e.key==='/' && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName)){
+      e.preventDefault(); var q=document.getElementById('q'); if(q) q.focus();
+    }
+  });
+})();
+</script>
+
 </body>
 </html>
