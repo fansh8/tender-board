@@ -1,0 +1,20 @@
+{
+ "name": "京津冀医院招标看板",
+ "short_name": "招标看板",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#f2f2f7",
+ "theme_color": "#f2f2f7",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}

@@ -192,9 +192,48 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px}
   .src-list a{color:#d1d1d6;border-bottom-color:rgba(84,84,88,.4)}
 }
 
+
+/* 访问密码门 */
+.lock-screen{position:fixed;inset:0;z-index:1000;background:rgba(242,242,247,.94);backdrop-filter:blur(24px);display:flex;align-items:center;justify-content:center;padding:20px}
+.lock-card{width:100%;max-width:360px;background:var(--card);border:1px solid var(--line);border-radius:20px;box-shadow:0 20px 60px rgba(0,0,0,.14);padding:28px 24px;text-align:center}
+.lock-icon{width:56px;height:56px;border-radius:16px;background:var(--blue-soft);color:var(--blue);display:grid;place-items:center;font-size:26px;margin:0 auto 14px}
+.lock-card h2{font-size:20px;margin:0 0 6px}
+.lock-card p{font-size:13px;color:var(--muted);margin:0 0 16px}
+.lock-card input{width:100%;border:1px solid var(--line);border-radius:12px;padding:11px 13px;font-size:15px;outline:none;background:rgba(118,118,128,.08);text-align:center;letter-spacing:2px}
+.lock-card input:focus{background:var(--card);box-shadow:0 0 0 3px var(--blue-soft)}
+.lock-card button{width:100%;margin-top:12px;background:var(--blue);color:#fff;border:none;border-radius:12px;padding:11px;font-size:15px;font-weight:600}
+.lock-card button:active{opacity:.8}
+.lock-err{height:18px;font-size:12px;color:var(--red);margin-top:8px}
+.lock-tip{font-size:11px;color:var(--muted);margin-top:14px;line-height:1.6}
+@media (prefers-color-scheme: dark){.lock-screen{background:rgba(0,0,0,.9)}}
+
+
+.clock{font-variant-numeric:tabular-nums;font-size:12.5px;color:var(--muted);margin-right:2px}
+.lock-card input+input{margin-top:10px}
+@media (max-width:700px){.clock{display:none}}
+
 </style>
+
+<link rel="icon" type="image/png" sizes="32x32" href="icon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#f2f2f7">
 </head>
 <body>
+
+<div class="lock-screen" id="lockScreen">
+  <div class="lock-card">
+    <div class="lock-icon">🔒</div>
+    <h2>京津冀招标看板</h2>
+    <p>请登录后查看</p>
+    <input id="loginUser" type="text" autocomplete="username" placeholder="账号">
+    <input id="loginPwd" type="password" autocomplete="current-password" placeholder="密码">
+    <button id="loginBtn">登录</button>
+    <div class="lock-err" id="loginErr"></div>
+    <div class="lock-tip">仅限授权使用</div>
+  </div>
+</div>
+
 
 <header class="topbar">
   <div class="topbar-in">
@@ -207,9 +246,10 @@ select{background:var(--card);border:1px solid var(--line);border-radius:9px}
       </div>
     </div>
     <div class="top-right">
+      <span class="clock" id="clock">--:--:--</span>
       <span class="upd" id="upd">数据加载中…</span>
       <button class="btn-ghost" id="refreshBtn">刷新</button>
-      <button class="btn-ghost" id="toggleFav">★ 我的关注</button>
+      <button class="btn-ghost" id="toggleFav">★ 关注</button>
     </div>
   </div>
 </header>
@@ -329,7 +369,7 @@ function load(){
     .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
     .then(d => {
       DATA = d;
-      $('#upd').textContent = '数据更新于 ' + (d.updated_at ? d.updated_at.replace('T',' ').slice(0,16) : '未知');
+      renderUpdated();
       renderAll();
     })
     .catch(err => {
@@ -337,6 +377,17 @@ function load(){
       $('#list').innerHTML = `<div class="empty">数据加载失败：${esc(err.message)}<br><br>如果页面一直加载失败，请检查 data.json 是否已上传到同一目录。</div>`;
     });
 }
+
+function renderUpdated(){
+  if(!DATA || !DATA.updated_at){ return; }
+  var t=new Date(DATA.updated_at);
+  if(isNaN(t.getTime())){ $('#upd').textContent='更新于 '+DATA.updated_at; return; }
+  var p=function(n){ return ('0'+n).slice(-2); };
+  var mins=Math.floor((Date.now()-t.getTime())/60000);
+  var rel = mins<1 ? '刚刚' : (mins<60 ? mins+' 分钟前' : Math.floor(mins/60)+' 小时前');
+  $('#upd').textContent='更新 '+p(t.getHours())+':'+p(t.getMinutes())+' · '+rel;
+}
+setInterval(function(){ if(window.DATA) renderUpdated(); }, 30000);
 
 function renderAll(){
   renderStats(); renderFocus(); renderChips(); renderHospitals(); renderList();
@@ -531,6 +582,39 @@ $('#overlay').onclick = closeSidebar;
 
 load();
 setInterval(() => { if(document.visibilityState === 'visible') load(); }, 5 * 60 * 1000);
+</script>
+
+<script>
+(function(){
+  var USER='admin', PASS='233';
+  var screen=document.getElementById('lockScreen');
+  var u=document.getElementById('loginUser'), p=document.getElementById('loginPwd');
+  var btn=document.getElementById('loginBtn'), err=document.getElementById('loginErr');
+  if(localStorage.getItem('jjkb_auth')==='1'){ screen.style.display='none'; return; }
+  function go(){
+    if(u.value.trim()===USER && p.value===PASS){
+      localStorage.setItem('jjkb_auth','1');
+      screen.style.transition='opacity .2s'; screen.style.opacity='0';
+      setTimeout(function(){ screen.style.display='none'; },200);
+    } else {
+      err.textContent='账号或密码不正确';
+      p.value=''; p.focus();
+    }
+  }
+  btn.addEventListener('click',go);
+  p.addEventListener('keydown',function(e){ if(e.key==='Enter') go(); });
+  u.focus();
+})();
+</script>
+
+<script>
+(function(){
+  function tick(){
+    var d=new Date(), p=function(n){ return ('0'+n).slice(-2); };
+    var el=document.getElementById('clock'); if(el) el.textContent=p(d.getHours())+':'+p(d.getMinutes())+':'+p(d.getSeconds());
+  }
+  tick(); setInterval(tick,1000);
+})();
 </script>
 </body>
 </html>
