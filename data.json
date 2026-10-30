@@ -1,12 +1,334 @@
 {
- "updated_at": "2026-10-30T17:46:28+08:00",
- "count": 537,
- "added": 3,
+ "updated_at": "2026-10-30T18:42:43+08:00",
+ "count": 553,
+ "added": 20,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "有创呼吸机2026-JQ06-W3338项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30423.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "手术麻醉ICU",
+   "tags": [
+    "手术麻醉ICU"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "007133cdd315",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00"
+  },
+  {
+   "title": "粪便标本采集保存管2025-JQ06-H5572项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30417.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "faeb319fc1a4",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00"
+  },
+  {
+   "title": "A群轮状病毒抗原检测试剂盒（胶体金法）2025-JQ06-H5571项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30416.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "免疫检验",
+   "city": "北京",
+   "id": "1b3c4bf7afca",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00"
+  },
+  {
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "d046046c2b9b",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00"
+  },
+  {
+   "title": "车辆和方舱设备喷涂项目2026-JQ06-F3061项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30413.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "1857bc4b676b",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00"
+  },
+  {
+   "title": "核酸分析用病毒裂解试剂2025-JQ06-H5568项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30411.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "分子诊断",
+   "city": "北京",
+   "id": "2452eeda2ba3",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00"
+  },
+  {
+   "title": "[公开]2026年首都儿童医学中心医用设备购置项目（通州院区1）第12包、第41包、第48包、第49包公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/7404cb4639d045e5a685405ea56ee037.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属首都儿童医学中心",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "5a305d8ea2cc",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "2382.62万元",
+   "deadline": "2026-11-20 08:00"
+  },
+  {
+   "title": "[公开]北京市属医院2026年医用设备集中带量采购项目体征监测维持组（脑电图仪）（第9包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/d4e68025f662401197148a22b1d8b35a.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属首都儿童医学中心",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "f2c16605f29d",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "1339万元",
+   "deadline": "2026-11-20 08:00"
+  },
+  {
+   "title": "[公开]北京小汤山医院2026-2029年度院区保安服务采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/6d57c7d9d39f4a1a87fcfc409ba87bba.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京小汤山医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "e0d762244a30",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "785.67万元",
+   "deadline": "2026-11-20 09:30"
+  },
+  {
+   "title": "[石景山区]石景山医院高质量发展建设项目补助资金其他医疗设备采购项目第1包、第2包、第3包、第4包、第5包公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/10/1daa3845d5bd42e2961e3fa585fcecdf.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市石景山医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "0df412015f4d",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "106.8万元",
+   "deadline": "2026-11-23 09:30"
+  },
+  {
+   "title": "[东城区]隆福医院中央财政支持中医药事业传承与发展示范试点项目补助资金行业应用软件开发服务采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/10/54e397e4fef14f229f8c3a0a03a5e4e5.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市隆福医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "9872f73f7600",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "167.26万元",
+   "deadline": "2026-11-23 09:30"
+  },
+  {
+   "title": "[石景山区]石景山医院高质量发展建设项目补助资金其他医疗设备采购项目第6包公开招标公...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/10/2544191ee289433f90f1fc96a08077aa.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市石景山医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "540abf60d999",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "36.65万元",
+   "deadline": "2026-11-23 09:30"
+  },
+  {
+   "title": "[大兴区]自有资金-人员公用支出2026年医用耗材采购项目（第十一包）、（第十二包）、（第十三包）、（第十四包）、（第十五包）、（第十六包）、（第二十包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/10/3c2450e8cc4e4b5894e330acb1946c7c.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市大兴区妇幼保健院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "低值耗材",
+   "tags": [
+    "低值耗材"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "fe95a3a66c7f",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "361.298873万元",
+   "deadline": "2026-11-20 09:00"
+  },
+  {
+   "title": "[昌平区]事业支出北京市昌平区中医医院2026年第二批医疗设备采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/10/8e6b8f7032164677a6706cfb57d56f52.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市昌平区中医医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "10b34736674a",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "180万元",
+   "deadline": "2026-11-23 09:00"
+  },
+  {
+   "title": "河北工程大学附属医院麻醉机采购项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261030_27595358.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "河北工程大学附属医院",
+   "publish_date": "2026-10-30",
+   "address": "河北",
+   "enrich": true,
+   "category": "手术麻醉ICU",
+   "tags": [
+    "手术麻醉ICU"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "783996681a9a",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "150.000000万元",
+   "deadline": "2026-11-23"
+  },
+  {
+   "title": "阳原县中医院新建住院病房楼项目（医疗设备采购）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261030_27595357.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "阳原县中医院",
+   "publish_date": "2026-10-30",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "e56c9e6fad80",
+   "status": "进行中",
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "229.000000万元",
+   "deadline": "2026-11-25"
+  },
   {
    "title": "石景山医院高质量发展建设项目补助资金其他医疗设备采购项目第6包公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202610/t20261030_27592944.htm",
@@ -1178,8 +1500,8 @@
    "deadline": "2026-11-20 09:30"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第一包、第七包）公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ad21a225eed14c60b545d05238e56584.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第二包、第三包、第五包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ea69b51c640c4c3d9180509ebbf4cbb6.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -1193,11 +1515,11 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "00bfb739288c",
+   "id": "578638a31418",
    "status": "进行中",
-   "fetched_at": "2026-10-30T17:45:47+08:00",
-   "budget": "140.363854万元",
-   "deadline": "2026-11-18 09:30"
+   "fetched_at": "2026-10-30T18:42:07+08:00",
+   "budget": "190.19264万元",
+   "deadline": "2026-11-19 09:30"
   },
   {
    "title": "医用鞋清洗消毒机2026-JQ06-W3290项目谈判邀请函",
@@ -6924,8 +7246,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -6940,9 +7262,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "a91fda10c7ce",
+   "id": "9c785b59c9a7",
    "status": "进行中",
-   "fetched_at": "2026-10-30T17:45:47+08:00"
+   "fetched_at": "2026-10-30T18:42:07+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
@@ -9759,8 +10081,8 @@
    "fetched_at": "2026-10-28T12:01:20+08:00"
   },
   {
-   "title": "全自动凝血分析仪 谈判邀请函 (2025-JQ06-W3378)",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29988.html",
+   "title": "全自动凝血分析仪谈判邀请函(2025-JQ06-W3470)",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29989.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9774,9 +10096,9 @@
    ],
    "subcat": "凝血与血栓",
    "city": "北京",
-   "id": "4e808e3dd61d",
+   "id": "5fe4caefebd6",
    "status": "已截止",
-   "fetched_at": "2026-10-30T17:45:47+08:00"
+   "fetched_at": "2026-10-30T18:42:07+08:00"
   },
   {
    "title": "口腔数字印模仪2026-JQ06-W3203项目延期公告",
