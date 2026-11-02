@@ -1,12 +1,241 @@
 {
- "updated_at": "2026-11-02T19:48:27+08:00",
- "count": 600,
- "added": 11,
+ "updated_at": "2026-11-02T20:54:54+08:00",
+ "count": 614,
+ "added": 18,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "胸腔按压机2026-JQ06-W3336项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30440.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "4d64aee3e504",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "超声电疗工作站2026-JQ06-W3263项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30438.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "影像设备",
+   "tags": [
+    "影像设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "1fc6a159ca47",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "呼气分析仪2026-JQ06-W3096项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30437.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "检验试剂（通用）",
+   "city": "北京",
+   "id": "a78be9ea7f2a",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "消毒供应室手术器械2026-JQ06-W3329项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30436.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "消毒供应",
+   "tags": [
+    "消毒供应",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "d0a1c9298686",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "一次性使用磨头2025-JQ06-H5574(01)、一次性使用磨头2025-JQ06-H5574(02)项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30433.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "19f8205b397c",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "血气、电解质、代谢物定标液2025-JQ06-H5576(01)、血气、电解质、代谢物定标液2025-JQ06-H5576(02)项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30432.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "血气与电解质",
+   "city": "北京",
+   "id": "b62ccc346dc3",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "ABO血型反定型检测卡（微柱凝胶法）2026-JQ06-H5003项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30431.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "6702b6869c13",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "神经监护仪2026-JQ06-W3031项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30430.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "手术麻醉ICU",
+   "tags": [
+    "手术麻醉ICU"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "60002858fdca",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "高频手术系统2026-JQ06-W3327项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30428.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "2b6962f3058f",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "全自动阴道微生态评价系统2026-JQ06-W3122项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30427.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "55d169d97153",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "全自动化学发光免疫分析仪2026-JQ06-W3095项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30426.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "免疫检验",
+   "city": "北京",
+   "id": "007842d5a59d",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "自净传递窗2026-JQ06-W3339项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30424.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-02",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "c667546bd2a2",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
   {
    "title": "天津医科大学总医院 天津医科大学总医院上肢机器人采购项目 (项目编号:HYGP-2026-A-056)公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605325.htm",
@@ -771,8 +1000,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30420.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -784,9 +1013,48 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "27ee6649a5fb",
    "status": "进行中",
-   "fetched_at": "2026-11-02T19:47:47+08:00"
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "全自动免疫组化染色机项目成交结果公示(2026-JQ06-W3259)",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30418.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科",
+    "病理"
+   ],
+   "subcat": "免疫检验",
+   "city": "北京",
+   "id": "7728936600f4",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
+  },
+  {
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-10-30",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "d046046c2b9b",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T20:54:21+08:00"
   },
   {
    "title": "天津医科大学 天津医科大学蛋白纯化仪等设备采购项目 (项目编号:BNZB-2026-C-0806)公开招标公告",
@@ -2471,8 +2739,8 @@
    "deadline": "2026-11-20 09:30"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第一包、第七包）公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ad21a225eed14c60b545d05238e56584.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第二包、第三包、第五包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ea69b51c640c4c3d9180509ebbf4cbb6.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -2486,11 +2754,11 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "00bfb739288c",
+   "id": "578638a31418",
    "status": "进行中",
-   "fetched_at": "2026-11-02T19:47:47+08:00",
-   "budget": "140.363854万元",
-   "deadline": "2026-11-18 09:30"
+   "fetched_at": "2026-11-02T20:54:21+08:00",
+   "budget": "190.19264万元",
+   "deadline": "2026-11-19 09:30"
   },
   {
    "title": "医用鞋清洗消毒机2026-JQ06-W3290项目谈判邀请函",
@@ -8217,8 +8485,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -8233,9 +8501,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "a91fda10c7ce",
+   "id": "9c785b59c9a7",
    "status": "进行中",
-   "fetched_at": "2026-11-02T19:47:47+08:00"
+   "fetched_at": "2026-11-02T20:54:21+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
@@ -11052,8 +11320,8 @@
    "fetched_at": "2026-10-28T12:01:20+08:00"
   },
   {
-   "title": "全自动凝血分析仪 谈判邀请函 (2025-JQ06-W3378)",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29988.html",
+   "title": "全自动凝血分析仪谈判邀请函(2025-JQ06-W3470)",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29989.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -11067,9 +11335,9 @@
    ],
    "subcat": "凝血与血栓",
    "city": "北京",
-   "id": "4e808e3dd61d",
+   "id": "5fe4caefebd6",
    "status": "已截止",
-   "fetched_at": "2026-11-02T19:47:47+08:00"
+   "fetched_at": "2026-11-02T20:54:21+08:00"
   },
   {
    "title": "口腔数字印模仪2026-JQ06-W3203项目延期公告",
