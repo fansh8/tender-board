@@ -1,12 +1,157 @@
 {
- "updated_at": "2026-11-02T18:54:29+08:00",
- "count": 593,
- "added": 9,
+ "updated_at": "2026-11-02T19:48:27+08:00",
+ "count": 600,
+ "added": 11,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "天津医科大学总医院 天津医科大学总医院上肢机器人采购项目 (项目编号:HYGP-2026-A-056)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605325.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津医科大学总医院",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "天津",
+   "id": "d5e8133ab643",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "72.000000万元",
+   "deadline": "2026-11-23"
+  },
+  {
+   "title": "天津市中医药研究院附属医院 天津市中医药研究院附属医院视频监控存储设备升级改造项目 (项目编号:XCSD-2026-A-978)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605326.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市中医药研究院附属医院",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "577a447118a7",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "50.000000万元",
+   "deadline": "2026-11-23"
+  },
+  {
+   "title": "天津医科大学 天津医科大学教学实验室基础设施提升改造项目 (项目编号:JGDGP-2026-A-062)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605324.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津医科大学",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "天津",
+   "id": "da1d0b1dd5b3",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "183.210000万元",
+   "deadline": "2026-11-23"
+  },
+  {
+   "title": "天津市第五中心医院 天津市第五中心医院超声可视化骨科精准治疗手术系统采购项目 (项目编号:TJYNSJ-2026-H-139)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605321.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市第五中心医院",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "影像设备",
+   "tags": [
+    "影像设备",
+    "骨科"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "37ec8adb5a5a",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "110.000000万元",
+   "deadline": "2026-11-25"
+  },
+  {
+   "title": "天津市第五中心医院 天津市第五中心医院透析类设备采购项目 (项目编号:TJYNSJ-2026-H-135)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605320.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市第五中心医院",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "透析",
+   "tags": [
+    "透析",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "a9b7db7d6bd2",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "624.000000万元",
+   "deadline": "2026-11-25"
+  },
+  {
+   "title": "天津医科大学朱宪彝纪念医院（天津医科大学代谢病医院、天津代谢病防治中心） 天津医科大学朱宪彝纪念医院超广角眼底照相机采购项目 (项目编号:XCSD-2026-A-996)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605319.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津医科大学朱宪彝纪念医院（天津医科大学代谢病医院、天津代谢病防治中心）",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "眼科",
+   "tags": [
+    "眼科"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "9f39fd261ece",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "80.000000万元",
+   "deadline": "2026-11-25"
+  },
+  {
+   "title": "天津市西青区医疗保障局机关 2027-2029 年度西青区事业单位补充医疗保险 (项目编号:zbhctj（2026）01102)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261102_27605316.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市西青区医疗保障局机关",
+   "publish_date": "2026-11-02",
+   "address": "天津",
+   "enrich": true,
+   "category": "影像设备",
+   "tags": [
+    "影像设备"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "bf11cd5f13f1",
+   "status": "进行中",
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "3509.505000万元",
+   "deadline": "2026-11-23"
+  },
   {
    "title": "[公开]北京天坛医院HIS系统开发运维服务公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/61e21a3dfd864628ba8c53423079f637.htm",
@@ -626,8 +771,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -639,9 +784,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-02T18:53:48+08:00"
+   "fetched_at": "2026-11-02T19:47:47+08:00"
   },
   {
    "title": "天津医科大学 天津医科大学蛋白纯化仪等设备采购项目 (项目编号:BNZB-2026-C-0806)公开招标公告",
@@ -2326,8 +2471,8 @@
    "deadline": "2026-11-20 09:30"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第二包、第三包、第五包）公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ea69b51c640c4c3d9180509ebbf4cbb6.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第一包、第七包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ad21a225eed14c60b545d05238e56584.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -2341,11 +2486,11 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "578638a31418",
+   "id": "00bfb739288c",
    "status": "进行中",
-   "fetched_at": "2026-11-02T18:53:48+08:00",
-   "budget": "190.19264万元",
-   "deadline": "2026-11-19 09:30"
+   "fetched_at": "2026-11-02T19:47:47+08:00",
+   "budget": "140.363854万元",
+   "deadline": "2026-11-18 09:30"
   },
   {
    "title": "医用鞋清洗消毒机2026-JQ06-W3290项目谈判邀请函",
@@ -8072,8 +8217,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -8088,9 +8233,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "9c785b59c9a7",
+   "id": "a91fda10c7ce",
    "status": "进行中",
-   "fetched_at": "2026-11-02T18:53:48+08:00"
+   "fetched_at": "2026-11-02T19:47:47+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
@@ -10907,8 +11052,8 @@
    "fetched_at": "2026-10-28T12:01:20+08:00"
   },
   {
-   "title": "全自动凝血分析仪谈判邀请函(2025-JQ06-W3470)",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29989.html",
+   "title": "全自动凝血分析仪 谈判邀请函 (2025-JQ06-W3378)",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29988.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -10922,9 +11067,9 @@
    ],
    "subcat": "凝血与血栓",
    "city": "北京",
-   "id": "5fe4caefebd6",
+   "id": "4e808e3dd61d",
    "status": "已截止",
-   "fetched_at": "2026-11-02T18:53:48+08:00"
+   "fetched_at": "2026-11-02T19:47:47+08:00"
   },
   {
    "title": "口腔数字印模仪2026-JQ06-W3203项目延期公告",
