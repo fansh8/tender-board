@@ -1,12 +1,76 @@
 {
- "updated_at": "2026-11-03T23:44:25+08:00",
- "count": 668,
- "added": 2,
+ "updated_at": "2026-11-04T00:49:47+08:00",
+ "count": 671,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "天津市电子信息技师学院（天津市仪表无线电工业学校） 2027年职工补充医疗保险服务采购 (项目编号:SCGP-2026-F-1026)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27614815.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市电子信息技师学院（天津市仪表无线电工业学校）",
+   "publish_date": "2026-11-03",
+   "address": "天津",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "天津",
+   "id": "3d161ca52fa1",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T00:49:09+08:00",
+   "budget": "79.248000万元",
+   "deadline": "2026-11-24"
+  },
+  {
+   "title": "天津市泰达医院 天津市泰达医院眼底血管造影系统采购项目 (项目编号:TJBHGP-2026-019)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27614814.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市泰达医院",
+   "publish_date": "2026-11-03",
+   "address": "天津",
+   "enrich": true,
+   "category": "影像设备",
+   "tags": [
+    "影像设备",
+    "眼科"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "ce1dd18452ec",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T00:49:09+08:00",
+   "budget": "150.000000万元",
+   "deadline": "2026-11-24"
+  },
+  {
+   "title": "天津市第四中心医院 天津市第四中心医院呼吸康复能力提升项目信息化项目 (项目编号:XCSD-2026-A-1001)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27614763.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市第四中心医院",
+   "publish_date": "2026-11-03",
+   "address": "天津",
+   "enrich": true,
+   "category": "康复",
+   "tags": [
+    "康复",
+    "医疗信息化",
+    "医疗服务"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "3d9376cb9717",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T00:49:09+08:00",
+   "budget": "71.000000万元",
+   "deadline": "2026-11-24"
+  },
   {
    "title": "一氧化氮治疗仪项目谈判邀请函（2026-JQ06-W3318）",
    "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30448.html",
@@ -2076,8 +2140,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -2089,9 +2153,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-03T23:43:53+08:00"
+   "fetched_at": "2026-11-04T00:49:09+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -9561,8 +9625,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9577,9 +9641,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "a91fda10c7ce",
+   "id": "9c785b59c9a7",
    "status": "进行中",
-   "fetched_at": "2026-11-03T23:43:53+08:00"
+   "fetched_at": "2026-11-04T00:49:09+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
