@@ -1,12 +1,90 @@
 {
- "updated_at": "2026-11-03T16:10:41+08:00",
- "count": 630,
- "added": 6,
+ "updated_at": "2026-11-03T17:20:51+08:00",
+ "count": 634,
+ "added": 7,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "定州市中医医院保洁服务采购项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27611842.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "定州市中医医院",
+   "publish_date": "2026-11-03",
+   "address": "河北",
+   "enrich": true,
+   "category": "后勤服务",
+   "tags": [
+    "后勤服务"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "9debc16095c8",
+   "status": "进行中",
+   "fetched_at": "2026-11-03T17:20:13+08:00",
+   "budget": "340.000000万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "定州市清风店中心卫生院基层特色科室建设项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27611810.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "定州市清风店中心卫生院",
+   "publish_date": "2026-11-03",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "河北",
+   "id": "fde1d3f8527a",
+   "status": "进行中",
+   "fetched_at": "2026-11-03T17:20:13+08:00",
+   "budget": "100.490000万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "清河县中心医院开发区医院家具家电类项目（开发区医院配套物资集中采购项目）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27611840.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "清河县中心医院",
+   "publish_date": "2026-11-03",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "河北",
+   "id": "f6fdd9e404d7",
+   "status": "进行中",
+   "fetched_at": "2026-11-03T17:20:13+08:00",
+   "budget": "244.771200万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "河北医科大学第一医院健康科普的新媒体传播项目01包、03包（二次）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27611806.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "河北医科大学第一医院",
+   "publish_date": "2026-11-03",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "河北",
+   "id": "52099725d422",
+   "status": "进行中",
+   "fetched_at": "2026-11-03T17:20:13+08:00",
+   "budget": "150.000000万元",
+   "deadline": "2026-11-25"
+  },
   {
    "title": "2026北京同仁医院医用设备购置项目（二）公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261103_27609923.htm",
@@ -1325,8 +1403,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -1338,9 +1416,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-03T16:10:06+08:00"
+   "fetched_at": "2026-11-03T17:20:13+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -3064,8 +3142,8 @@
    "deadline": "2026-11-20 09:30"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第二包、第三包、第五包）公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ea69b51c640c4c3d9180509ebbf4cbb6.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第一包、第七包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/10/ad21a225eed14c60b545d05238e56584.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -3079,11 +3157,11 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "578638a31418",
+   "id": "00bfb739288c",
    "status": "进行中",
-   "fetched_at": "2026-11-03T16:10:06+08:00",
-   "budget": "190.19264万元",
-   "deadline": "2026-11-19 09:30"
+   "fetched_at": "2026-11-03T17:20:13+08:00",
+   "budget": "140.363854万元",
+   "deadline": "2026-11-18 09:30"
   },
   {
    "title": "医用鞋清洗消毒机2026-JQ06-W3290项目谈判邀请函",
@@ -8810,8 +8888,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -8826,9 +8904,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "9c785b59c9a7",
+   "id": "a91fda10c7ce",
    "status": "进行中",
-   "fetched_at": "2026-11-03T16:10:06+08:00"
+   "fetched_at": "2026-11-03T17:20:13+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
