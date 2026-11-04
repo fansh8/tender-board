@@ -1,12 +1,74 @@
 {
- "updated_at": "2026-11-04T11:46:21+08:00",
- "count": 680,
- "added": 8,
+ "updated_at": "2026-11-04T12:51:52+08:00",
+ "count": 683,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "邯郸市中心血站机采血小板配套管路耗材（进口）采购项目招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27616841.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "邯郸市中心血站",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "检验科",
+   "tags": [
+    "检验科",
+    "低值耗材"
+   ],
+   "subcat": "凝血与血栓",
+   "city": "邯郸",
+   "id": "e78e861877ee",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T12:51:15+08:00",
+   "budget": "1170.330000万元",
+   "deadline": "2026-11-25"
+  },
+  {
+   "title": "围场满族蒙古族自治县公安局关于县医院周边道路交通基础设施及安防设备采购项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27616489.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "围场满族蒙古族自治县公安局本级",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "970bdb0ed4fa",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T12:51:15+08:00",
+   "budget": "339.200457万元",
+   "deadline": "2026-11-27"
+  },
+  {
+   "title": "唐山市丰润区人民医院病案托管寄存服务竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261104_27616505.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "唐山市丰润区人民医院",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "唐山",
+   "id": "93e11668f972",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T12:51:15+08:00",
+   "budget": "40.800000万元",
+   "deadline": "2026-11-19"
+  },
   {
    "title": "河北北方学院附属第一医院信息化平台一期软件项目公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27616005.htm",
@@ -2325,8 +2387,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -2338,9 +2400,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-04T11:45:45+08:00"
+   "fetched_at": "2026-11-04T12:51:15+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -9810,8 +9872,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9826,9 +9888,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "a91fda10c7ce",
+   "id": "9c785b59c9a7",
    "status": "进行中",
-   "fetched_at": "2026-11-04T11:45:45+08:00"
+   "fetched_at": "2026-11-04T12:51:15+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
