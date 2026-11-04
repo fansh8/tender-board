@@ -1,12 +1,132 @@
 {
- "updated_at": "2026-11-04T10:44:13+08:00",
- "count": 674,
- "added": 2,
+ "updated_at": "2026-11-04T11:46:21+08:00",
+ "count": 680,
+ "added": 8,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "河北北方学院附属第一医院信息化平台一期软件项目公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27616005.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "河北北方学院附属第一医院",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗信息化",
+   "tags": [
+    "医疗信息化"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "b481d5209dbb",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T11:45:45+08:00",
+   "budget": "1341.000000万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "唐山市工人医院医疗垃圾处理项目（双盲评审）二次公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27616003.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "唐山市工人医院",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "唐山",
+   "id": "8ba239d61d05",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T11:45:45+08:00",
+   "budget": "153.000000万元",
+   "deadline": "2026-11-25"
+  },
+  {
+   "title": "深泽县人民医院保洁服务项目竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261104_27616244.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "深泽县人民医院",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "后勤服务",
+   "tags": [
+    "后勤服务"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "7e369fb16a83",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T11:45:45+08:00",
+   "budget": "160.601709万元",
+   "deadline": "2026-11-16"
+  },
+  {
+   "title": "河北北方学院附属第一医院南院区配电室设备更换安装工程项目竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261104_27616015.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "河北北方学院附属第一医院",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "8441f63132c1",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T11:45:45+08:00",
+   "budget": "288.401249万元",
+   "deadline": "2026-11-18"
+  },
+  {
+   "title": "廊坊市人民医院门、急诊楼消防改造工程竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261104_27616009.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "廊坊市人民医院",
+   "publish_date": "2026-11-04",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "廊坊",
+   "id": "d9340217a4de",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T11:45:45+08:00",
+   "budget": "242.447377万元",
+   "deadline": "2026-11-16"
+  },
+  {
+   "title": "石景山院区ERCP及气管镜室改造项目竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261104_27616043.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京朝阳医院",
+   "publish_date": "2026-11-04",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "c47b936e596c",
+   "status": "进行中",
+   "fetched_at": "2026-11-04T11:45:45+08:00",
+   "budget": "198.000000万元",
+   "deadline": "2026-11-16 14:00"
+  },
   {
    "title": "河北北方学院附属第一医院北院区物业管理服务及全院工程维修服务第二次公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27615096.htm",
@@ -2205,8 +2325,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -2218,9 +2338,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-04T10:43:38+08:00"
+   "fetched_at": "2026-11-04T11:45:45+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -9690,8 +9810,8 @@
    "deadline": "2026-11-09 13:30"
   },
   {
-   "title": "全自动免疫组化染色机2026-JQ06-W3257项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30291.html",
+   "title": "全自动免疫组化染色机2026-JQ06-W3259项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30290.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9706,9 +9826,9 @@
    ],
    "subcat": "免疫检验",
    "city": "北京",
-   "id": "9c785b59c9a7",
+   "id": "a91fda10c7ce",
    "status": "进行中",
-   "fetched_at": "2026-11-04T10:43:38+08:00"
+   "fetched_at": "2026-11-04T11:45:45+08:00"
   },
   {
    "title": "摆药机包药纸2026-JQ06-W3014项目谈判邀请函",
