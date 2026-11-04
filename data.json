@@ -1,15 +1,15 @@
 {
- "updated_at": "2026-11-04T23:21:09+08:00",
+ "updated_at": "2026-11-05T00:24:18+08:00",
  "count": 721,
- "added": 2,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第五包）第二次公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d76bb6eece494097946d41a1ca7a521f.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第七包）第二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fcffb1e134114f8bbb290b2e4263e8b6.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -23,11 +23,70 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "d1d88386f5eb",
+   "id": "ec19e6c5f875",
    "status": "进行中",
-   "fetched_at": "2026-11-04T23:20:28+08:00",
-   "budget": "19.39034万元",
+   "fetched_at": "2026-11-05T00:23:36+08:00",
+   "budget": "31.654124万元",
    "deadline": "2026-11-25 09:30"
+  },
+  {
+   "title": "天津市泰达医院 天津市泰达医院钬激光治疗系统采购项目 (项目编号:TJBHGP-2026-022)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27623268.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市泰达医院",
+   "publish_date": "2026-11-04",
+   "address": "天津",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "天津",
+   "id": "49a5dd6eec10",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T00:23:36+08:00",
+   "budget": "80.000000万元",
+   "deadline": "2026-11-27"
+  },
+  {
+   "title": "天津市泰达医院 天津市泰达医院体外膜肺氧合仪采购项目 (项目编号:TJBHGP-2026-021)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27623306.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市泰达医院",
+   "publish_date": "2026-11-04",
+   "address": "天津",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "天津",
+   "id": "b8edfd0aa3a1",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T00:23:36+08:00",
+   "budget": "105.000000万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "天津市泰达医院 天津市泰达医院麻醉工作站采购项目 (项目编号:TJBHGP-2026-026)公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261104_27623267.htm",
+   "source": "中国政府采购网",
+   "region": "天津",
+   "purchaser": "天津市泰达医院",
+   "publish_date": "2026-11-04",
+   "address": "天津",
+   "enrich": true,
+   "category": "手术麻醉ICU",
+   "tags": [
+    "手术麻醉ICU"
+   ],
+   "subcat": "",
+   "city": "天津",
+   "id": "397fbc9f258d",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T00:23:36+08:00",
+   "budget": "120.000000万元",
+   "deadline": "2026-11-25"
   },
   {
    "title": "耳鼻喉综合治疗台2026-JQ06-W3314项目延期公告",
@@ -2820,8 +2879,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -2833,9 +2892,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-04T23:20:27+08:00"
+   "fetched_at": "2026-11-05T00:23:36+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -14152,62 +14211,6 @@
    "id": "dc07a0df3068",
    "status": "已截止",
    "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "荧光倒置显微镜系统项目成交公示（2026-JQ06-W3143）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29827.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-07",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "其他",
-   "tags": [],
-   "subcat": "",
-   "city": "北京",
-   "id": "b7d783a4bd81",
-   "status": "已截止",
-   "fetched_at": "2026-11-04T13:52:38+08:00"
-  },
-  {
-   "title": "低频脉冲磁疗机项目废标公示（2026-JQ06-W3108 ）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29823.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-07",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "其他",
-   "tags": [],
-   "subcat": "",
-   "city": "北京",
-   "id": "2f36ac912db0",
-   "status": "已截止",
-   "fetched_at": "2026-11-04T13:52:38+08:00"
-  },
-  {
-   "title": "尿液分析系统成交结果公示（2026-JQ06-W3099 ）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29822.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-07",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "检验科",
-   "tags": [
-    "检验科"
-   ],
-   "subcat": "临检",
-   "city": "北京",
-   "id": "01e214ee34f0",
-   "status": "已截止",
-   "fetched_at": "2026-11-04T13:52:38+08:00"
   }
  ]
 }
