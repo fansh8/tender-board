@@ -1,12 +1,96 @@
 {
- "updated_at": "2026-11-05T12:54:13+08:00",
- "count": 732,
- "added": 7,
+ "updated_at": "2026-11-05T13:56:09+08:00",
+ "count": 736,
+ "added": 6,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "一批进口设备购买维保服务政府采购招标项目四次招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27625257.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "邯郸市眼科医院（邯郸市第三医院）",
+   "publish_date": "2026-11-05",
+   "address": "河北",
+   "enrich": true,
+   "category": "设备维保",
+   "tags": [
+    "设备维保",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "邯郸",
+   "id": "957f22348984",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T13:55:23+08:00",
+   "budget": "84.200000万元",
+   "deadline": "2026-11-27"
+  },
+  {
+   "title": "邯郸市第一医院运动心肺测试系统采购项目（二次）招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27625256.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "邯郸市第一医院",
+   "publish_date": "2026-11-05",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "邯郸",
+   "id": "b4e17c1c608a",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T13:55:23+08:00",
+   "budget": "61.000000万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "邯郸市传染病医院传染病防控综合服务能力提升医疗设备采购项目二标段二次公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27625255.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "邯郸市传染病医院",
+   "publish_date": "2026-11-05",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗服务",
+   "tags": [
+    "医疗服务",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "邯郸",
+   "id": "01005750e946",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T13:55:23+08:00",
+   "budget": "40.000000万元",
+   "deadline": "2026-11-26"
+  },
+  {
+   "title": "骨科手术机器人租赁服务采购项目竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261105_27625225.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京世纪坛医院",
+   "publish_date": "2026-11-05",
+   "address": "北京",
+   "enrich": true,
+   "category": "骨科",
+   "tags": [
+    "骨科"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "d1cccc88c37c",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T13:55:23+08:00",
+   "budget": "240.000000万元",
+   "deadline": "2026-11-16 13:30"
+  },
   {
    "title": "[公开]首都医科大学附属北京儿童医院医疗设备管理外包服务项目公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/8c090a53e9614777abb32aa0cc0bc261.htm",
@@ -235,8 +319,8 @@
    "deadline": "2026-11-20"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第七包）第二次公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fcffb1e134114f8bbb290b2e4263e8b6.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第五包）第二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d76bb6eece494097946d41a1ca7a521f.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -250,10 +334,10 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "ec19e6c5f875",
+   "id": "d1d88386f5eb",
    "status": "进行中",
-   "fetched_at": "2026-11-05T12:53:33+08:00",
-   "budget": "31.654124万元",
+   "fetched_at": "2026-11-05T13:55:23+08:00",
+   "budget": "19.39034万元",
    "deadline": "2026-11-25 09:30"
   },
   {
@@ -3106,8 +3190,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -3119,9 +3203,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-05T12:53:33+08:00"
+   "fetched_at": "2026-11-05T13:55:23+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
