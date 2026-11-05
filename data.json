@@ -1,12 +1,75 @@
 {
- "updated_at": "2026-11-05T10:51:29+08:00",
- "count": 724,
+ "updated_at": "2026-11-05T11:50:25+08:00",
+ "count": 727,
  "added": 5,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "石家庄市第三医院总务库房物资采购项目（二次）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27624806.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "石家庄市第三医院",
+   "publish_date": "2026-11-05",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "石家庄",
+   "id": "0ea03f3077b6",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T11:49:48+08:00",
+   "budget": "42.000000万元",
+   "deadline": "2026-11-27"
+  },
+  {
+   "title": "北京天坛医院电子病历系统开发运维服务公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27624535.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京天坛医院",
+   "publish_date": "2026-11-05",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗信息化",
+   "tags": [
+    "医疗信息化"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "9f6cd992f180",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T11:49:48+08:00",
+   "budget": "149.640000万元",
+   "deadline": "2026-11-26 13:30"
+  },
+  {
+   "title": "南皮县人民医院复合手术室GE血管造影机维保服务采购公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27624339.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "南皮县人民医院",
+   "publish_date": "2026-11-05",
+   "address": "河北",
+   "enrich": true,
+   "category": "影像设备",
+   "tags": [
+    "影像设备",
+    "手术麻醉ICU",
+    "设备维保"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "defe73b30e87",
+   "status": "进行中",
+   "fetched_at": "2026-11-05T11:49:48+08:00",
+   "budget": "120.000000万元",
+   "deadline": "2026-11-26"
+  },
   {
    "title": "首都医科大学附属北京口腔医院2026北京口腔医院下半年新增软件运维服务项目（三次）（第1包）公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27623879.htm",
@@ -67,8 +130,8 @@
    "deadline": "2026-11-20"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第七包）第二次公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fcffb1e134114f8bbb290b2e4263e8b6.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第五包）第二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d76bb6eece494097946d41a1ca7a521f.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -82,10 +145,10 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "ec19e6c5f875",
+   "id": "d1d88386f5eb",
    "status": "进行中",
-   "fetched_at": "2026-11-05T10:50:49+08:00",
-   "budget": "31.654124万元",
+   "fetched_at": "2026-11-05T11:49:48+08:00",
+   "budget": "19.39034万元",
    "deadline": "2026-11-25 09:30"
   },
   {
@@ -2938,8 +3001,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -2951,9 +3014,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-05T10:50:49+08:00"
+   "fetched_at": "2026-11-05T11:49:48+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
