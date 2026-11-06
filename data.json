@@ -1,12 +1,33 @@
 {
- "updated_at": "2026-11-06T13:31:17+08:00",
- "count": 780,
- "added": 2,
+ "updated_at": "2026-11-06T14:34:23+08:00",
+ "count": 781,
+ "added": 3,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "北京肿瘤医院医用设备购置采购项目（第3包）-招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27633922.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "北京肿瘤医院",
+   "publish_date": "2026-11-06",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "799e843a82a9",
+   "status": "进行中",
+   "fetched_at": "2026-11-06T14:33:42+08:00",
+   "budget": "370.000000万元",
+   "deadline": "2026-11-27 09:30"
+  },
   {
    "title": "[通州区]2026年决策指挥平台及综合信息化系统运维耗材采购项目公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/3dcc66bf9789463e81f04444f3877fe7.htm",
@@ -1227,8 +1248,8 @@
    "deadline": "2026-11-20"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第七包）第二次公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fcffb1e134114f8bbb290b2e4263e8b6.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第五包）第二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d76bb6eece494097946d41a1ca7a521f.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -1242,10 +1263,10 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "ec19e6c5f875",
+   "id": "d1d88386f5eb",
    "status": "进行中",
-   "fetched_at": "2026-11-06T13:30:31+08:00",
-   "budget": "31.654124万元",
+   "fetched_at": "2026-11-06T14:33:42+08:00",
+   "budget": "19.39034万元",
    "deadline": "2026-11-25 09:30"
   },
   {
@@ -4098,8 +4119,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -4111,9 +4132,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-06T13:30:31+08:00"
+   "fetched_at": "2026-11-06T14:33:42+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
