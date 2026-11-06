@@ -1,12 +1,98 @@
 {
- "updated_at": "2026-11-06T10:03:39+08:00",
- "count": 774,
- "added": 2,
+ "updated_at": "2026-11-06T11:19:55+08:00",
+ "count": 778,
+ "added": 6,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "涿鹿县中医院2026年中医医共体服务能力提升项目（设备采购）（二次）公开招标公告（双盲评审）",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27632775.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "涿鹿县中医院",
+   "publish_date": "2026-11-06",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗服务",
+   "tags": [
+    "医疗服务",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "54a8d8fdd782",
+   "status": "进行中",
+   "fetched_at": "2026-11-06T11:19:01+08:00",
+   "budget": "71.880000万元",
+   "deadline": "2026-12-01"
+  },
+  {
+   "title": "2026年决策指挥平台及综合信息化系统运维耗材采购项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27632770.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "北京市通州区生态环境局（本级）",
+   "publish_date": "2026-11-06",
+   "address": "北京",
+   "enrich": true,
+   "category": "低值耗材",
+   "tags": [
+    "低值耗材",
+    "医疗信息化"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "2eabbc9e41b2",
+   "status": "进行中",
+   "fetched_at": "2026-11-06T11:19:01+08:00",
+   "budget": "341.410240万元",
+   "deadline": "2026-11-27 08:30"
+  },
+  {
+   "title": "兴隆县中医医院新院提升扩能项目（医疗设备采购）（二次）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27632537.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "兴隆县中医医院",
+   "publish_date": "2026-11-06",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "河北",
+   "id": "6350d1140579",
+   "status": "进行中",
+   "fetched_at": "2026-11-06T11:19:01+08:00",
+   "budget": "5904.000000万元",
+   "deadline": "2026-11-30"
+  },
+  {
+   "title": "雄县疾病预防控制中心新冠测序检测配套试剂采购项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261106_27632536.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "雄县卫生健康局(本级)",
+   "publish_date": "2026-11-06",
+   "address": "河北",
+   "enrich": true,
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "分子诊断",
+   "city": "河北",
+   "id": "5864079426b1",
+   "status": "进行中",
+   "fetched_at": "2026-11-06T11:19:01+08:00",
+   "budget": "59.136000万元",
+   "deadline": "2026-11-30"
+  },
   {
    "title": "天津市药品检验研究院加强疫苗等生物制品批签发及检验检测能力建设项目（第二批第1次） (项目编号:BH-YJY20261093)公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261105_27631603.htm",
@@ -1097,8 +1183,8 @@
    "deadline": "2026-11-20"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第五包）第二次公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d76bb6eece494097946d41a1ca7a521f.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第七包）第二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fcffb1e134114f8bbb290b2e4263e8b6.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -1112,10 +1198,10 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "d1d88386f5eb",
+   "id": "ec19e6c5f875",
    "status": "进行中",
-   "fetched_at": "2026-11-06T10:02:57+08:00",
-   "budget": "19.39034万元",
+   "fetched_at": "2026-11-06T11:19:01+08:00",
+   "budget": "31.654124万元",
    "deadline": "2026-11-25 09:30"
   },
   {
@@ -3968,8 +4054,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -3981,9 +4067,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-06T10:02:57+08:00"
+   "fetched_at": "2026-11-06T11:19:01+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
