@@ -1,12 +1,158 @@
 {
- "updated_at": "2026-11-09T15:54:55+08:00",
- "count": 824,
- "added": 8,
+ "updated_at": "2026-11-09T17:02:04+08:00",
+ "count": 831,
+ "added": 9,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "保定市第二医院激光眼科诊断仪等一批医疗设备采购项目（1包）二次招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261109_27646605.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "保定市第二医院",
+   "publish_date": "2026-11-09",
+   "address": "河北",
+   "enrich": true,
+   "category": "眼科",
+   "tags": [
+    "眼科",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "保定",
+   "id": "c6749d6bb99a",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "731.000000万元",
+   "deadline": "2026-12-01"
+  },
+  {
+   "title": "国产卫生耗材第七批购置项目二次招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261109_27646644.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "保定市中心血站",
+   "publish_date": "2026-11-09",
+   "address": "河北",
+   "enrich": true,
+   "category": "低值耗材",
+   "tags": [
+    "低值耗材"
+   ],
+   "subcat": "",
+   "city": "保定",
+   "id": "2c189a0036d0",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "43.000000万元",
+   "deadline": "2026-11-30"
+  },
+  {
+   "title": "2026年国家临床重点专科设备采购(双盲评审）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261109_27646645.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "唐山市妇幼保健院",
+   "publish_date": "2026-11-09",
+   "address": "河北",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "唐山",
+   "id": "e1778b312a58",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "262.800000万元",
+   "deadline": "2026-12-01"
+  },
+  {
+   "title": "北京市房山区中医医院新院区医疗设备配置项目（第11-13包）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261109_27646473.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "北京市房山区中医医院",
+   "publish_date": "2026-11-09",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "f23b5537cb4e",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "291.700000万元",
+   "deadline": "2026-12-02 09:00"
+  },
+  {
+   "title": "北京市房山区中医医院新院区医疗设备配置项目（第08、09、10、14包）公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261109_27646506.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "北京市房山区中医医院",
+   "publish_date": "2026-11-09",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "7d05c8ad9598",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "392.860000万元",
+   "deadline": "2026-12-01 09:00"
+  },
+  {
+   "title": "保定市第二中心医院零星维修项目竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261109_27646634.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "保定市第二中心医院",
+   "publish_date": "2026-11-09",
+   "address": "河北",
+   "enrich": true,
+   "category": "设备维保",
+   "tags": [
+    "设备维保"
+   ],
+   "subcat": "",
+   "city": "保定",
+   "id": "9a5f27af77cd",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "108.898917万元",
+   "deadline": "2026-11-24"
+  },
+  {
+   "title": "秦皇岛市第一医院消防监控室值守服务竞争性磋商公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202611/t20261109_27646232.htm",
+   "source": "中国政府采购网",
+   "region": "河北",
+   "purchaser": "秦皇岛市第一医院",
+   "publish_date": "2026-11-09",
+   "address": "河北",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "秦皇岛",
+   "id": "429ab0754117",
+   "status": "进行中",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "65.975000万元",
+   "deadline": "2026-11-23"
+  },
   {
    "title": "成安县卫生健康局关于长巷乡卫生院血液透析中心医疗设备购置项目(三次）公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261109_27645400.htm",
@@ -2198,8 +2344,8 @@
    "deadline": "2026-11-20"
   },
   {
-   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第七包）第二次公开招标公告",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fcffb1e134114f8bbb290b2e4263e8b6.htm",
+   "title": "[公开]北京市疾病预防控制中心公共卫生危害因素监测与干预项目试剂耗材采购项目-第二批（第五包）第二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d76bb6eece494097946d41a1ca7a521f.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "北京市疾病预防控制中心",
@@ -2213,10 +2359,10 @@
    ],
    "subcat": "检验试剂（通用）",
    "city": "北京",
-   "id": "ec19e6c5f875",
+   "id": "d1d88386f5eb",
    "status": "进行中",
-   "fetched_at": "2026-11-09T15:54:23+08:00",
-   "budget": "31.654124万元",
+   "fetched_at": "2026-11-09T17:01:31+08:00",
+   "budget": "19.39034万元",
    "deadline": "2026-11-25 09:30"
   },
   {
@@ -5069,8 +5215,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -5082,9 +5228,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-09T15:54:23+08:00"
+   "fetched_at": "2026-11-09T17:01:31+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
