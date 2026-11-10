@@ -1,12 +1,31 @@
 {
- "updated_at": "2026-11-10T10:46:47+08:00",
- "count": 856,
- "added": 3,
+ "updated_at": "2026-11-10T11:45:30+08:00",
+ "count": 857,
+ "added": 4,
  "focus_categories": [
   "检验科"
  ],
  "errors": [],
  "items": [
+  {
+   "title": "安贞医院临床教学学生宿舍租赁房屋租赁服务采购项目公开招标公告",
+   "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261110_27650570.htm",
+   "source": "中国政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京安贞医院",
+   "publish_date": "2026-11-10",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "1cb664696bbb",
+   "status": "进行中",
+   "fetched_at": "2026-11-10T11:45:01+08:00",
+   "budget": "136.850000万元",
+   "deadline": "2026-12-03 09:30"
+  },
   {
    "title": "唐山市开平区卫生健康局本级计划生育特殊家庭住院护工补贴保险（七次）（双盲评审）公开招标公告",
    "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202611/t20261110_27649869.htm",
@@ -5779,8 +5798,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -5792,9 +5811,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-10T10:46:17+08:00"
+   "fetched_at": "2026-11-10T11:45:01+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
