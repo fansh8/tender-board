@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-10T17:22:17+08:00",
- "count": 858,
- "added": 3,
+ "updated_at": "2026-11-10T18:26:46+08:00",
+ "count": 862,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,90 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]北京市属医院2026年医用设备集中带量采购体外诊断与辅助设备组（第一批）手术显微镜5等公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/6c10433626eb461e895edfacfdf80346.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京天坛医院",
+   "publish_date": "2026-11-10",
+   "address": "北京",
+   "enrich": true,
+   "category": "检验科",
+   "tags": [
+    "检验科",
+    "医疗设备"
+   ],
+   "subcat": "检验试剂（通用）",
+   "city": "北京",
+   "id": "db888857c6b0",
+   "status": "进行中",
+   "fetched_at": "2026-11-10T18:26:25+08:00",
+   "budget": "519万元",
+   "deadline": "2026-12-02 08:00"
+  },
+  {
+   "title": "[公开]北京小汤山医院餐饮服务项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/8060968faa4b420fb3ea1df379d0cfd7.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京小汤山医院",
+   "publish_date": "2026-11-10",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "c1cd48e247a3",
+   "status": "进行中",
+   "fetched_at": "2026-11-10T18:26:25+08:00",
+   "budget": "2194万元",
+   "deadline": "2026-12-01 09:30"
+  },
+  {
+   "title": "[公开]2026年校内专项—改善办学保障条件—设备购置—校医院改造配套专用设备仪器等(1包)二次公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d1b2ee40f5674407b8bcdbd0b75eb235.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都经济贸易大学",
+   "publish_date": "2026-11-10",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "864c6387c0fa",
+   "status": "进行中",
+   "fetched_at": "2026-11-10T18:26:25+08:00",
+   "budget": "80万元",
+   "deadline": "2026-12-01 09:00"
+  },
+  {
+   "title": "[丰台区]2026年医疗设备购置（第二批）医用超声波仪器及设备采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/ba10b7cdffd7455dbc19b17030feb180.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市丰台区青塔街道社区卫生服务中心",
+   "publish_date": "2026-11-10",
+   "address": "北京",
+   "enrich": true,
+   "category": "影像设备",
+   "tags": [
+    "影像设备",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "158927f4ae23",
+   "status": "进行中",
+   "fetched_at": "2026-11-10T18:26:25+08:00",
+   "budget": "604.34万元",
+   "deadline": "2026-12-01 09:30"
+  },
   {
    "title": "[公开]安贞医院临床教学学生宿舍租赁房屋租赁服务采购项目公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/0d49c98353c349978c657e7467fbd0a5.htm",
@@ -5826,8 +5910,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -5839,9 +5923,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-10T17:21:47+08:00"
+   "fetched_at": "2026-11-10T18:26:25+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
