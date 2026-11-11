@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-11T18:31:04+08:00",
- "count": 876,
+ "updated_at": "2026-11-11T19:29:35+08:00",
+ "count": 882,
  "added": 7,
  "focus_categories": [
   "检验科"
@@ -16,6 +16,118 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "手术动力装置2026-JQ06-W3331项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30533.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "04897c0729e5",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T19:29:08+08:00"
+  },
+  {
+   "title": "蛋白质定量分析仪项目谈判邀请函（2026-JQ06-W3350）",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30530.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "检验科",
+   "tags": [
+    "检验科"
+   ],
+   "subcat": "检验试剂（通用）",
+   "city": "北京",
+   "id": "9c592b555e8a",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T19:29:08+08:00"
+  },
+  {
+   "title": "程序降温仪2026-JQ06-W3334项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30529.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "12558881daa9",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T19:29:08+08:00"
+  },
+  {
+   "title": "液氮罐2026-JQ06-W3332项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30528.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "7d5f419eb95f",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T19:29:08+08:00"
+  },
+  {
+   "title": "血糖检测仪谈判邀请函(2026-JQ06-W3291)第二次",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30526.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "4a9426df9d29",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T19:29:08+08:00"
+  },
+  {
+   "title": "编织机设备（包括分卷机，并丝机等配套仪器）2026-JQ06-W3165项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30522.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "2f72acaa5d91",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T19:29:08+08:00"
+  },
   {
    "title": "[公开]2026年首都儿童医学中心医用设备购置项目（通州院区1）第10包、第11包、第46包公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/edf7ffda709b4e2886ad5244b84fd7eb.htm",
@@ -6230,8 +6342,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -6243,9 +6355,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-11T18:30:38+08:00"
+   "fetched_at": "2026-11-11T19:29:08+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
