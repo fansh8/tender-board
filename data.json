@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-11T11:49:50+08:00",
- "count": 868,
- "added": 1,
+ "updated_at": "2026-11-11T12:54:31+08:00",
+ "count": 870,
+ "added": 3,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,48 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]2026年医用设备购置项目-电休克治疗仪公开招标公告（三次）",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/24ad27019722412a8bb35dd9fefbfc42.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京安定医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "bc91c2d11b7a",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T12:54:07+08:00",
+   "budget": "80万元",
+   "deadline": "2026-12-02 09:30"
+  },
+  {
+   "title": "[公开]首都医科大学宣武医院2026年医用设备购置项目（分散采购）02包、03包、04包、06包公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/40a50c078b1b4ff69b9d33e8b73e71dd.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学宣武医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "7d63cfd32d77",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T12:54:07+08:00",
+   "budget": "1839万元",
+   "deadline": "2026-12-04 09:00"
+  },
   {
    "title": "台式多功能离心机2026-JQ06-W3333项目谈判邀请函",
    "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30518.html",
@@ -6066,8 +6108,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -6079,9 +6121,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-11T11:49:25+08:00"
+   "fetched_at": "2026-11-11T12:54:07+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
