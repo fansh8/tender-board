@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-11T17:27:46+08:00",
- "count": 870,
- "added": 1,
+ "updated_at": "2026-11-11T18:31:04+08:00",
+ "count": 876,
+ "added": 7,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,128 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]2026年首都儿童医学中心医用设备购置项目（通州院区1）第10包、第11包、第46包公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/edf7ffda709b4e2886ad5244b84fd7eb.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属首都儿童医学中心",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "258f946811c1",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T18:30:38+08:00",
+   "budget": "3291.8万元",
+   "deadline": "2026-12-02 09:00"
+  },
+  {
+   "title": "[公开]北京朝阳医院超算和备份机房建设项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/3b8cf46849b747408042dcf1fa042468.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京朝阳医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "823ff054d222",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T18:30:38+08:00",
+   "budget": "280万元",
+   "deadline": "2026-12-02 09:30"
+  },
+  {
+   "title": "[顺义区]顺义区医院住院一部、二部公共公益类房屋不动产权证补办房屋安全鉴定项目公开招...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/9ef049be258042f38fada9a97bc66230.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市顺义区医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "b96b7b8dbec5",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T18:30:38+08:00",
+   "budget": "185.428664万元",
+   "deadline": "2026-12-02 09:30"
+  },
+  {
+   "title": "[平谷区]北京市平谷区精神病医院硬件设施设备提升项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/5241b21314b948158ce63b9262a9c6bc.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市平谷区精神病医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "df444d21b23f",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T18:30:38+08:00",
+   "budget": "489.8万元",
+   "deadline": "2026-12-02 13:30"
+  },
+  {
+   "title": "[密云区]北京市密云区医院骨科手术机器人租赁服务采购项目-公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/26ef171c39c64bae997c2d4c5b1bf5af.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市密云区医院",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "骨科",
+   "tags": [
+    "骨科"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "72aed0a0fdc8",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T18:30:38+08:00",
+   "budget": "672万元",
+   "deadline": "2026-12-02 09:30"
+  },
+  {
+   "title": "[东城区]东直门中心医疗设备采购项目（02、04包重招）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/c5d56dca4fd241b793a0631641120a3f.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市东城区社区卫生服务管理中心",
+   "publish_date": "2026-11-11",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "626559d52086",
+   "status": "进行中",
+   "fetched_at": "2026-11-11T18:30:38+08:00",
+   "budget": "216.85万元",
+   "deadline": "2026-12-02 13:30"
+  },
   {
    "title": "[公开]2026年医用设备购置项目-电休克治疗仪公开招标公告（三次）",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/24ad27019722412a8bb35dd9fefbfc42.htm",
@@ -6108,8 +6230,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -6121,9 +6243,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-11T17:27:23+08:00"
+   "fetched_at": "2026-11-11T18:30:38+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
