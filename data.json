@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T08:19:42+08:00",
+ "updated_at": "2026-11-12T09:50:21+08:00",
  "count": 878,
  "added": 2,
  "focus_categories": [
@@ -6342,8 +6342,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -6355,9 +6355,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-12T08:19:18+08:00"
+   "fetched_at": "2026-11-12T09:49:53+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -12550,7 +12550,7 @@
    "subcat": "",
    "city": "北京",
    "id": "20150fbbbb9f",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:44:27+08:00",
    "budget": "621.5万元",
    "deadline": "2026-11-12 09:00"
@@ -12592,7 +12592,7 @@
    "subcat": "",
    "city": "北京",
    "id": "9758d52fdc27",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:44:27+08:00",
    "budget": "240万元",
    "deadline": "2026-11-12 09:30"
@@ -13139,7 +13139,7 @@
    "subcat": "",
    "city": "北京",
    "id": "ae653f9c9f82",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:45:52+08:00",
    "budget": "198万元",
    "deadline": "2026-11-12 09:00"
@@ -13200,7 +13200,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "37f0719286ee",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:45:52+08:00",
    "budget": "92万元",
    "deadline": "2026-11-12 09:30"
@@ -13285,7 +13285,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "87796e38e630",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:44:27+08:00",
    "budget": "77.38万元",
    "deadline": "2026-11-12 09:00"
@@ -13521,7 +13521,7 @@
    "subcat": "",
    "city": "北京",
    "id": "47a7a3a5d01d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:45:52+08:00",
    "budget": "3503.7432万元",
    "deadline": "2026-11-12 09:30"
