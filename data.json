@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-13T16:33:00+08:00",
- "count": 896,
- "added": 1,
+ "updated_at": "2026-11-13T17:55:06+08:00",
+ "count": 900,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,80 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "超声切割止血刀2026-JQ06-W3345项目谈判邀请函",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30553.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-13",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "影像设备",
+   "tags": [
+    "影像设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "f4d5c7ddefb9",
+   "status": "进行中",
+   "fetched_at": "2026-11-13T17:54:41+08:00"
+  },
+  {
+   "title": "可视喉镜谈判邀请函（2026-JQ06-W3344）",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30552.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-13",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "51c1f2799b79",
+   "status": "进行中",
+   "fetched_at": "2026-11-13T17:54:41+08:00"
+  },
+  {
+   "title": "引入快递公司支持“智慧门诊服务平台”病历复印邮寄业务谈判邀请函（二次）（2026-JQ06-F3068）",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30547.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-13",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "d62277356e44",
+   "status": "进行中",
+   "fetched_at": "2026-11-13T17:54:41+08:00"
+  },
+  {
+   "title": "医用激光光纤2026-JQ06-H5005、医用激光光纤2026-JQ06-H5004项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30546.html",
+   "source": "301医院招标采购网",
+   "region": "北京",
+   "purchaser": "解放军总医院",
+   "publish_date": "2026-11-12",
+   "address": "北京",
+   "enrich": false,
+   "notice_type": "[招标公告]",
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "13673afb4481",
+   "status": "进行中",
+   "fetched_at": "2026-11-13T17:54:41+08:00"
+  },
   {
    "title": "气压式体外冲击波治疗仪2026-JQ06-W3306项目谈判邀请函",
    "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30545.html",
@@ -6698,8 +6772,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -6711,9 +6785,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-13T16:32:37+08:00"
+   "fetched_at": "2026-11-13T17:54:41+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
