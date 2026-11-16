@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-16T16:31:21+08:00",
- "count": 911,
- "added": 13,
+ "updated_at": "2026-11-16T18:26:12+08:00",
+ "count": 914,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,90 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]北京小汤山医院消防设施增补项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/fe1e31e453fe422ea0555bab1469c5bd.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京小汤山医院",
+   "publish_date": "2026-11-16",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "ccbe412986da",
+   "status": "进行中",
+   "fetched_at": "2026-11-16T18:25:45+08:00",
+   "budget": "127.34万元",
+   "deadline": "2026-12-07 09:00"
+  },
+  {
+   "title": "[公开]北京朝阳医院2026年自有资金医用设备购置项目-第一批（01-06包）公开招...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/7f268043611e48f18369b90691b5e2c7.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京朝阳医院",
+   "publish_date": "2026-11-16",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "1b77a7b95b6b",
+   "status": "进行中",
+   "fetched_at": "2026-11-16T18:25:45+08:00",
+   "budget": "1058.8万元",
+   "deadline": "2026-12-07 09:00"
+  },
+  {
+   "title": "[大兴区]北京市大兴区人民医院选取打印机耗材及打印机维修供应商项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/a888ce36779e40939f78c1a6e8b91ffc.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市大兴区人民医院",
+   "publish_date": "2026-11-16",
+   "address": "北京",
+   "enrich": true,
+   "category": "低值耗材",
+   "tags": [
+    "低值耗材",
+    "设备维保"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "bdda6c338391",
+   "status": "进行中",
+   "fetched_at": "2026-11-16T18:25:45+08:00",
+   "budget": "224.3191万元",
+   "deadline": "2026-12-08 09:30"
+  },
+  {
+   "title": "[丰台区]丰台康复医院医疗设备购置市级资金项目（第二批）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/39e554b23d784e9c8fe6bfda1acef58d.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市丰台康复医院（北京市丰台区铁营医院）",
+   "publish_date": "2026-11-16",
+   "address": "北京",
+   "enrich": true,
+   "category": "康复",
+   "tags": [
+    "康复",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "e392bea2cc25",
+   "status": "进行中",
+   "fetched_at": "2026-11-16T18:25:45+08:00",
+   "budget": "106.947456万元",
+   "deadline": "2026-12-07 09:00"
+  },
   {
    "title": "[磋商]友谊医院西城院区医疗保健中心DSA改造工程竞争性磋商公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/0bd67a1a8c6d488f8b306998fe788a09.htm",
@@ -93,27 +177,6 @@
    "fetched_at": "2026-11-16T16:30:54+08:00",
    "budget": "226.148532万元",
    "deadline": "2026-12-09 13:30"
-  },
-  {
-   "title": "[公开]北京朝阳医院2026年自有资金医用设备购置项目-第一批（07-12包）公开招...",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/e29e3d792dad4cb094d391676d63167e.htm",
-   "source": "北京市政府采购网",
-   "region": "北京",
-   "purchaser": "首都医科大学附属北京朝阳医院",
-   "publish_date": "2026-11-16",
-   "address": "北京",
-   "enrich": true,
-   "category": "医疗设备",
-   "tags": [
-    "医疗设备"
-   ],
-   "subcat": "",
-   "city": "北京",
-   "id": "9822a1f54bff",
-   "status": "进行中",
-   "fetched_at": "2026-11-16T16:30:54+08:00",
-   "budget": "354.6185万元",
-   "deadline": "2026-12-08 09:00"
   },
   {
    "title": "[磋商]2026-2027年康复服务质量提升项目竞争性磋商公告",
@@ -7098,8 +7161,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -7111,9 +7174,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-16T16:30:54+08:00"
+   "fetched_at": "2026-11-16T18:25:45+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
