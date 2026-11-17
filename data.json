@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-17T13:32:27+08:00",
- "count": 919,
- "added": 2,
+ "updated_at": "2026-11-17T15:06:50+08:00",
+ "count": 922,
+ "added": 5,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,70 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]2026年医用设备财政资金购置项目（进口）（第2包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/d4a037da56744010b7c6524ffce8fd7d.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京世纪坛医院",
+   "publish_date": "2026-11-17",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "592515c335e4",
+   "status": "进行中",
+   "fetched_at": "2026-11-17T15:06:22+08:00",
+   "budget": "50万元",
+   "deadline": "2026-12-09 09:00"
+  },
+  {
+   "title": "[公开]北京市属医院2026年医用设备集中带量采购项目体征监测维持组（呼吸机）（第18包）公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/a6902f7d310041d08778102dc4ef8be2.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属首都儿童医学中心",
+   "publish_date": "2026-11-17",
+   "address": "北京",
+   "enrich": true,
+   "category": "手术麻醉ICU",
+   "tags": [
+    "手术麻醉ICU",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "4c5101a9641b",
+   "status": "进行中",
+   "fetched_at": "2026-11-17T15:06:22+08:00",
+   "budget": "1108.6万元",
+   "deadline": "2026-12-08 08:00"
+  },
+  {
+   "title": "[公开]北京朝阳医院2026年精准检测平台医用设备购置项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/aa514d86bd4447139a31cd5b1d699663.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京朝阳医院",
+   "publish_date": "2026-11-17",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "8af42586bc60",
+   "status": "进行中",
+   "fetched_at": "2026-11-17T15:06:22+08:00",
+   "budget": "354.3万元",
+   "deadline": "2026-12-09 09:00"
+  },
   {
    "title": "[公开]北京市结核病胸部肿瘤研究所2026年改革与发展项目(试剂耗材) 公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/91e3df8c8a514d0c8b3751820843b7d0.htm",
@@ -81,8 +145,8 @@
    "deadline": "2026-12-08 09:00"
   },
   {
-   "title": "[公开]北京朝阳医院2026年自有资金医用设备购置项目-第一批（07-12包）公开招...",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/e29e3d792dad4cb094d391676d63167e.htm",
+   "title": "[公开]北京朝阳医院2026年自有资金医用设备购置项目-第一批（01-06包）公开招...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/7f268043611e48f18369b90691b5e2c7.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "首都医科大学附属北京朝阳医院",
@@ -95,11 +159,11 @@
    ],
    "subcat": "",
    "city": "北京",
-   "id": "9822a1f54bff",
+   "id": "1b77a7b95b6b",
    "status": "进行中",
-   "fetched_at": "2026-11-17T13:32:02+08:00",
-   "budget": "354.6185万元",
-   "deadline": "2026-12-08 09:00"
+   "fetched_at": "2026-11-17T15:06:22+08:00",
+   "budget": "1058.8万元",
+   "deadline": "2026-12-07 09:00"
   },
   {
    "title": "耳科颅底手术器械包2026-JQ06-W3317谈判邀请函(第二次)",
@@ -7376,8 +7440,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -7389,9 +7453,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-17T13:32:02+08:00"
+   "fetched_at": "2026-11-17T15:06:22+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -12624,7 +12688,7 @@
    "subcat": "",
    "city": "北京",
    "id": "38fb85a1a66d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:44:27+08:00",
    "budget": "342万元",
    "deadline": "2026-11-17 14:00"
