@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T07:47:09+08:00",
+ "updated_at": "2026-11-18T09:01:18+08:00",
  "count": 928,
  "added": 3,
  "focus_categories": [
@@ -349,8 +349,8 @@
    "deadline": "2026-12-08 09:00"
   },
   {
-   "title": "[公开]北京朝阳医院2026年自有资金医用设备购置项目-第一批（07-12包）公开招...",
-   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/e29e3d792dad4cb094d391676d63167e.htm",
+   "title": "[公开]北京朝阳医院2026年自有资金医用设备购置项目-第一批（01-06包）公开招...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/7f268043611e48f18369b90691b5e2c7.htm",
    "source": "北京市政府采购网",
    "region": "北京",
    "purchaser": "首都医科大学附属北京朝阳医院",
@@ -363,11 +363,11 @@
    ],
    "subcat": "",
    "city": "北京",
-   "id": "9822a1f54bff",
+   "id": "1b77a7b95b6b",
    "status": "进行中",
-   "fetched_at": "2026-11-18T07:46:42+08:00",
-   "budget": "354.6185万元",
-   "deadline": "2026-12-08 09:00"
+   "fetched_at": "2026-11-18T09:00:48+08:00",
+   "budget": "1058.8万元",
+   "deadline": "2026-12-07 09:00"
   },
   {
    "title": "耳科颅底手术器械包2026-JQ06-W3317谈判邀请函(第二次)",
@@ -7644,8 +7644,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -7657,9 +7657,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-18T07:46:42+08:00"
+   "fetched_at": "2026-11-18T09:00:48+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -9459,7 +9459,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "ef2ac7ff69d1",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T21:31:48+08:00",
    "budget": "2980万元",
    "deadline": "2026-11-18 08:00"
@@ -9481,7 +9481,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "430cafbfe368",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T21:31:48+08:00",
    "budget": "2980.000000万元",
    "deadline": "2026-11-18 08:00"
@@ -9502,7 +9502,7 @@
    "subcat": "",
    "city": "北京",
    "id": "0d6249f348c5",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T19:13:32+08:00",
    "budget": "321.9786万元",
    "deadline": "2026-11-18 09:00"
@@ -9771,7 +9771,7 @@
    "subcat": "",
    "city": "北京",
    "id": "0aeda63f0f35",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T18:18:49+08:00",
    "budget": "1790万元",
    "deadline": "2026-11-18 08:00"
@@ -9835,7 +9835,7 @@
    "subcat": "",
    "city": "北京",
    "id": "e816138a3f7f",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T18:18:49+08:00",
    "budget": "607.8万元",
    "deadline": "2026-11-18 09:00"
@@ -11139,7 +11139,7 @@
    "tags": [],
    "city": "北京",
    "id": "62f80a7a04fb",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:27:51+08:00",
    "budget": "34.858142万元",
    "deadline": "2026-11-18 09:00",
@@ -11182,7 +11182,7 @@
    ],
    "city": "北京",
    "id": "64c1fe873000",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:27:51+08:00",
    "budget": "33.75万元",
    "deadline": "2026-11-18 09:00",
@@ -11679,7 +11679,7 @@
    ],
    "city": "邯郸",
    "id": "bcfd674e3b39",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:25:34+08:00",
    "deadline": "2026-11-18 09:00",
    "subcat": ""
@@ -11908,7 +11908,7 @@
    ],
    "city": "邢台",
    "id": "4b9d26f992aa",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:25:34+08:00",
    "deadline": "2026-11-18 09:00",
    "subcat": ""
@@ -11925,7 +11925,7 @@
    "tags": [],
    "city": "张家口",
    "id": "b743c8177360",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-28T11:25:34+08:00",
    "deadline": "2026-11-18 09:00",
    "subcat": ""
