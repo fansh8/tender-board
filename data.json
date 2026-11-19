@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-19T19:00:59+08:00",
- "count": 955,
- "added": 12,
+ "updated_at": "2026-11-19T19:59:58+08:00",
+ "count": 956,
+ "added": 2,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,28 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]市属医院2026年医用设备带量采购放射组第二批次（国产部分）第9包公开招标公...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/a37c770bcaea4fc6a282dcab1b893c2b.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市医院管理中心(本级)",
+   "publish_date": "2026-11-19",
+   "address": "北京",
+   "enrich": true,
+   "category": "影像设备",
+   "tags": [
+    "影像设备",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "047a6543117a",
+   "status": "进行中",
+   "fetched_at": "2026-11-19T19:59:34+08:00",
+   "budget": "1200万元",
+   "deadline": "2026-12-10 09:00"
+  },
   {
    "title": "[公开]北京朝阳医院2026年医疗保障医用设备购置项目公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/f11b80980f574926bfcf5af67c499f5c.htm",
@@ -8330,8 +8352,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -8343,9 +8365,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-19T19:00:35+08:00"
+   "fetched_at": "2026-11-19T19:59:34+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
