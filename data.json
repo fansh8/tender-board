@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-23T14:01:27+08:00",
- "count": 973,
- "added": 1,
+ "updated_at": "2026-11-23T15:35:46+08:00",
+ "count": 974,
+ "added": 2,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,25 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[平谷区]平谷区医疗保障经办业务其他服务采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/58fe9c5441534e94941738af3b356e86.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市平谷区医疗保障局本级",
+   "publish_date": "2026-11-23",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "330fe291550c",
+   "status": "进行中",
+   "fetched_at": "2026-11-23T15:35:21+08:00",
+   "budget": "551.07万元",
+   "deadline": "2026-12-14 13:30"
+  },
   {
    "title": "[公开]通州院区医院保安服务项目公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/4e1856ed672e4133a521487d49793f2c.htm",
@@ -8823,8 +8842,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -8836,9 +8855,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-23T14:01:04+08:00"
+   "fetched_at": "2026-11-23T15:35:21+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
