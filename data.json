@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-23T22:41:44+08:00",
- "count": 994,
+ "updated_at": "2026-11-24T00:00:31+08:00",
+ "count": 987,
  "added": 1,
  "focus_categories": [
   "检验科"
@@ -4178,7 +4178,7 @@
    "subcat": "",
    "city": "秦皇岛",
    "id": "429ab0754117",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-09T17:01:31+08:00",
    "budget": "65.975000万元",
    "deadline": "2026-11-23"
@@ -8495,7 +8495,7 @@
    "subcat": "",
    "city": "天津",
    "id": "d5e8133ab643",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T19:47:47+08:00",
    "budget": "72.000000万元",
    "deadline": "2026-11-23"
@@ -8516,7 +8516,7 @@
    "subcat": "",
    "city": "天津",
    "id": "577a447118a7",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T19:47:47+08:00",
    "budget": "50.000000万元",
    "deadline": "2026-11-23"
@@ -8535,7 +8535,7 @@
    "subcat": "",
    "city": "天津",
    "id": "da1d0b1dd5b3",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T19:47:47+08:00",
    "budget": "183.210000万元",
    "deadline": "2026-11-23"
@@ -8621,7 +8621,7 @@
    "subcat": "",
    "city": "天津",
    "id": "bf11cd5f13f1",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T19:47:47+08:00",
    "budget": "3509.505000万元",
    "deadline": "2026-11-23"
@@ -8684,7 +8684,7 @@
    "subcat": "",
    "city": "河北",
    "id": "bd7b5413177b",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T18:53:48+08:00",
    "budget": "140.000000万元",
    "deadline": "2026-11-23"
@@ -8706,7 +8706,7 @@
    "subcat": "",
    "city": "保定",
    "id": "b660d41e25b4",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T18:53:48+08:00",
    "budget": "245.800000万元",
    "deadline": "2026-11-23"
@@ -8910,7 +8910,7 @@
    "subcat": "凝血与血栓",
    "city": "衡水",
    "id": "91b11b453b7e",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "58.180000万元",
    "deadline": "2026-11-23"
@@ -9239,14 +9239,14 @@
    "subcat": "检验服务外送",
    "city": "天津",
    "id": "6f96ab5c9530",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-31T19:08:03+08:00",
    "budget": "640.000000万元",
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9258,9 +9258,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-23T22:41:19+08:00"
+   "fetched_at": "2026-11-24T00:00:04+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -9361,7 +9361,7 @@
    "subcat": "",
    "city": "天津",
    "id": "ee9d63a56b09",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-31T00:42:24+08:00",
    "budget": "1365.000000万元",
    "deadline": "2026-11-23"
@@ -9787,7 +9787,7 @@
    "subcat": "",
    "city": "河北",
    "id": "783996681a9a",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T18:42:07+08:00",
    "budget": "150.000000万元",
    "deadline": "2026-11-23"
@@ -9871,7 +9871,7 @@
    "subcat": "",
    "city": "承德",
    "id": "47b9fbc2080a",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T15:55:11+08:00",
    "budget": "212.500000万元",
    "deadline": "2026-11-23"
@@ -9890,7 +9890,7 @@
    "subcat": "",
    "city": "张家口",
    "id": "26c9255c88f1",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T15:55:11+08:00",
    "budget": "78.000000万元",
    "deadline": "2026-11-23"
@@ -9973,7 +9973,7 @@
    "subcat": "",
    "city": "河北",
    "id": "2bdfc1488d99",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T10:42:39+08:00",
    "budget": "392.000000万元",
    "deadline": "2026-11-23"
@@ -10676,7 +10676,7 @@
    "subcat": "",
    "city": "河北",
    "id": "ffee7feedfc7",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-29T15:55:45+08:00",
    "budget": "50.000000万元",
    "deadline": "2026-11-23"
@@ -10891,7 +10891,7 @@
    "subcat": "",
    "city": "河北",
    "id": "d09d3e60e8e0",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-29T11:41:04+08:00",
    "budget": "500.000000万元",
    "deadline": "2026-11-23"
@@ -19661,138 +19661,6 @@
    "subcat": "流式细胞",
    "city": "北京",
    "id": "06670e39a8b7",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "快充式经鼻高流量湿化呼吸治疗仪2026-JQ06-W3229项目谈判邀请函",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29982.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "其他",
-   "tags": [],
-   "subcat": "",
-   "city": "北京",
-   "id": "1434e40ebea9",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "沙眼衣原体检测试剂盒（免疫荧光法）2023-JQ06-H3057项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29980.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "检验科",
-   "tags": [
-    "检验科"
-   ],
-   "subcat": "免疫检验",
-   "city": "北京",
-   "id": "bbf8ec3c164c",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "粪便有形成分分析仪谈判邀请函(2026-JQ06-W3100)",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29978.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "检验科",
-   "tags": [
-    "检验科"
-   ],
-   "subcat": "检验试剂（通用）",
-   "city": "北京",
-   "id": "7aec8071c5fa",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "Endnote机构版谈判邀请函（2026-JQ06-F3049）(延期）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29976.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[延期公告]",
-   "category": "其他",
-   "tags": [],
-   "subcat": "",
-   "city": "北京",
-   "id": "ea023f29c613",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "Embase数据库谈判邀请函（2026-JQ06-F3050）（延期）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29975.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[延期公告]",
-   "category": "其他",
-   "tags": [],
-   "subcat": "",
-   "city": "北京",
-   "id": "7030319364fc",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "手术显微镜谈判邀请函（2026-JQ06-W3135）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29973.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "其他",
-   "tags": [],
-   "subcat": "",
-   "city": "北京",
-   "id": "495615bf2bb9",
-   "status": "已截止",
-   "fetched_at": "2026-10-28T12:01:20+08:00"
-  },
-  {
-   "title": "内科楼UPS电源蓄电池维修更换项目谈判邀请函（2026-JQ06-W3231）",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-29972.html",
-   "source": "301医院招标采购网",
-   "region": "北京",
-   "purchaser": "解放军总医院",
-   "publish_date": "2026-08-26",
-   "address": "北京",
-   "enrich": false,
-   "notice_type": "[招标公告]",
-   "category": "设备维保",
-   "tags": [
-    "设备维保"
-   ],
-   "subcat": "",
-   "city": "北京",
-   "id": "d983c5ef1650",
    "status": "已截止",
    "fetched_at": "2026-10-28T12:01:20+08:00"
   }
