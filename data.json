@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T08:57:28+08:00",
+ "updated_at": "2026-11-23T10:14:21+08:00",
  "count": 973,
  "added": 1,
  "focus_categories": [
@@ -8220,7 +8220,7 @@
    "subcat": "",
    "city": "北京",
    "id": "fd6113749fe6",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T18:53:48+08:00",
    "budget": "120万元",
    "deadline": "2026-11-23 09:30"
@@ -8326,7 +8326,7 @@
    "subcat": "",
    "city": "北京",
    "id": "d047335339be",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "60万元",
    "deadline": "2026-11-23 09:30"
@@ -8347,7 +8347,7 @@
    "subcat": "",
    "city": "北京",
    "id": "357b777bdae0",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "1916万元",
    "deadline": "2026-11-23 09:00"
@@ -8406,7 +8406,7 @@
    "subcat": "",
    "city": "北京",
    "id": "327b893cbbe4",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "478.718万元",
    "deadline": "2026-11-23 09:00"
@@ -8427,7 +8427,7 @@
    "subcat": "",
    "city": "北京",
    "id": "8d200adaf942",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "552.82万元",
    "deadline": "2026-11-23 09:30"
@@ -8590,7 +8590,7 @@
    "subcat": "",
    "city": "北京",
    "id": "55bdfef0d9a1",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T15:10:38+08:00",
    "budget": "478.718000万元",
    "deadline": "2026-11-23 09:00"
@@ -8653,7 +8653,7 @@
    "subcat": "",
    "city": "北京",
    "id": "503feee74550",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T12:29:41+08:00",
    "budget": "105万元",
    "deadline": "2026-11-23 09:30"
@@ -8736,7 +8736,7 @@
    "subcat": "",
    "city": "北京",
    "id": "70636e029edc",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T11:20:19+08:00",
    "budget": "105.000000万元",
    "deadline": "2026-11-23 09:30"
@@ -8823,8 +8823,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -8836,9 +8836,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-23T08:57:04+08:00"
+   "fetched_at": "2026-11-23T10:13:59+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
@@ -9262,7 +9262,7 @@
    "subcat": "",
    "city": "北京",
    "id": "0df412015f4d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T18:42:07+08:00",
    "budget": "106.8万元",
    "deadline": "2026-11-23 09:30"
@@ -9281,7 +9281,7 @@
    "subcat": "",
    "city": "北京",
    "id": "9872f73f7600",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T18:42:07+08:00",
    "budget": "167.26万元",
    "deadline": "2026-11-23 09:30"
@@ -9302,7 +9302,7 @@
    "subcat": "",
    "city": "北京",
    "id": "540abf60d999",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T18:42:07+08:00",
    "budget": "36.65万元",
    "deadline": "2026-11-23 09:30"
@@ -9344,7 +9344,7 @@
    "subcat": "",
    "city": "北京",
    "id": "10b34736674a",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T18:42:07+08:00",
    "budget": "180万元",
    "deadline": "2026-11-23 09:00"
@@ -9407,7 +9407,7 @@
    "subcat": "",
    "city": "北京",
    "id": "b93cf65ea53a",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T16:47:48+08:00",
    "budget": "36.650000万元",
    "deadline": "2026-11-23 09:30"
@@ -9489,7 +9489,7 @@
    "subcat": "",
    "city": "北京",
    "id": "fb49edd74a4d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-10-30T15:55:11+08:00",
    "budget": "180.000000万元",
    "deadline": "2026-11-23 09:00"
