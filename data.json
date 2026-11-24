@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-24T12:36:39+08:00",
+ "updated_at": "2026-11-24T13:58:22+08:00",
  "count": 988,
- "added": 4,
+ "added": 3,
  "focus_categories": [
   "检验科"
  ],
@@ -7669,7 +7669,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "72c3a658dd11",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T18:25:23+08:00",
    "budget": "803万元",
    "deadline": "2026-11-24 13:30"
@@ -7745,7 +7745,7 @@
    "subcat": "",
    "city": "北京",
    "id": "74093ea17251",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T18:25:23+08:00",
    "budget": "189万元",
    "deadline": "2026-11-24 13:30"
@@ -8826,7 +8826,7 @@
    "subcat": "",
    "city": "北京",
    "id": "fe37bc5fc20d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "432.808531万元",
    "deadline": "2026-11-24 13:30"
@@ -9264,8 +9264,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9277,9 +9277,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-24T12:36:14+08:00"
+   "fetched_at": "2026-11-24T13:57:55+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
