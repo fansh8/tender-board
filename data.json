@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-24T18:03:49+08:00",
- "count": 990,
- "added": 3,
+ "updated_at": "2026-11-24T19:23:40+08:00",
+ "count": 995,
+ "added": 6,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,107 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]北京清华长庚医院2025财政追加设备采购项目（二）（第3包）-招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/69517deb0e404f6dbf908daccc941bf0.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京清华长庚医院",
+   "publish_date": "2026-11-24",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "f44603987750",
+   "status": "进行中",
+   "fetched_at": "2026-11-24T19:23:15+08:00",
+   "budget": "245万元",
+   "deadline": "2026-12-15 13:30"
+  },
+  {
+   "title": "[公开]手术器械购置项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/6c4426f28af045118df779226680dc34.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京安贞医院",
+   "publish_date": "2026-11-24",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "43fc0d91c368",
+   "status": "进行中",
+   "fetched_at": "2026-11-24T19:23:15+08:00",
+   "budget": "540万元",
+   "deadline": "2026-12-15 13:30"
+  },
+  {
+   "title": "[通州区]医疗保险业务经办合作服务采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/ddaef093c9624756862dd2968b3e7d9e.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市通州区医疗保障局（本级）",
+   "publish_date": "2026-11-24",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "869ab4d9b155",
+   "status": "进行中",
+   "fetched_at": "2026-11-24T19:23:15+08:00",
+   "budget": "300万元",
+   "deadline": "2026-12-15 09:00"
+  },
+  {
+   "title": "[门头沟区]2027-2028年度医疗责任保险公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/fab9f0b0c8ed42e087f2028321d1b5f3.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市门头沟区医院",
+   "publish_date": "2026-11-24",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "2d4b0372306f",
+   "status": "进行中",
+   "fetched_at": "2026-11-24T19:23:15+08:00",
+   "budget": "132万元",
+   "deadline": "2026-12-16 09:30"
+  },
+  {
+   "title": "[通州区]北京市通州区中西医结合医院中医药传承创新发展第二批医疗设备采购项目公开招标...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/2c5dba6bec9d4dc39564cb872f6c8f4a.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市通州区中西医结合医院",
+   "publish_date": "2026-11-24",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "eb22fbef7e28",
+   "status": "进行中",
+   "fetched_at": "2026-11-24T19:23:15+08:00",
+   "budget": "516.1436万元",
+   "deadline": "2026-12-15 09:30"
+  },
   {
    "title": "全自动尿液分析仪谈判邀请函(2026-JQ06-W3371)",
    "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30645.html",
@@ -9302,8 +9403,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9315,9 +9416,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-24T18:03:23+08:00"
+   "fetched_at": "2026-11-24T19:23:15+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
