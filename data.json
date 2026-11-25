@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-25T18:15:24+08:00",
- "count": 1002,
- "added": 1,
+ "updated_at": "2026-11-25T19:30:07+08:00",
+ "count": 1007,
+ "added": 6,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,110 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]首都医科大学北京中医医院财政资金医用设备购置项目（第2、5、11包）-公开招...",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/15575409d1424ef49cf459ba440bc717.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京中医医院",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "193977f62963",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T19:29:47+08:00",
+   "budget": "295万元",
+   "deadline": "2026-12-16 08:30"
+  },
+  {
+   "title": "[通州区]通州区医疗信息系统运维项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/3684cc368b2b4f49805e2f8afd27aa67.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市通州区卫生健康委员会（本级）",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗信息化",
+   "tags": [
+    "医疗信息化"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "b7125032c5e1",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T19:29:47+08:00",
+   "budget": "170.49335万元",
+   "deadline": "2026-12-16 09:30"
+  },
+  {
+   "title": "[东城区]第六医院改造提质经费项目机电设备安装采购项目竞争性磋商公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/f39306ffa20a474c88e8e1c08b37c4c8.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市第六医院",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "7209b139bf15",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T19:29:47+08:00",
+   "budget": "282.151707万元",
+   "deadline": "2026-12-07 09:30"
+  },
+  {
+   "title": "[西城区]食品药品监督协管员工作经费公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/ff797f7fd9064496bb1178d65022b954.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市西城区市场监督管理局（本级）",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "01f26dcc9e05",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T19:29:47+08:00",
+   "budget": "1008.1万元",
+   "deadline": "2026-12-17 09:30"
+  },
+  {
+   "title": "[大兴区]黄村医院2027年医用耗材、检验试剂采购项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/qjxxgg/qjzbgg/2026/11/c55194f851584c4499b7ffad13b2f6a9.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市大兴区黄村医院",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "检验科",
+   "tags": [
+    "检验科",
+    "低值耗材"
+   ],
+   "subcat": "检验试剂（通用）",
+   "city": "北京",
+   "id": "25091c01b892",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T19:29:47+08:00",
+   "budget": "277.395485万元",
+   "deadline": "2026-12-16 09:00"
+  },
   {
    "title": "酶标仪项目谈判邀请函(2024-JQ06-W3656)",
    "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30663.html",
@@ -9640,8 +9744,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9653,9 +9757,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-25T18:15:03+08:00"
+   "fetched_at": "2026-11-25T19:29:47+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
