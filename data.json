@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-25T11:58:05+08:00",
- "count": 991,
- "added": 1,
+ "updated_at": "2026-11-25T13:05:43+08:00",
+ "count": 992,
+ "added": 2,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,28 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[磋商]市质检院2026年课题研究类采购项目——试剂耗材采购项目竞争性磋商公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/0ab336504d3440a7878678b7c0db71f6.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市产品质量监督检验研究院",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "检验科",
+   "tags": [
+    "检验科",
+    "低值耗材"
+   ],
+   "subcat": "检验试剂（通用）",
+   "city": "北京",
+   "id": "637905cf6eea",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T13:05:28+08:00",
+   "budget": "129.490996万元",
+   "deadline": "2026-12-07 09:30"
+  },
   {
    "title": "[公开]介入手术室大型医用设备购置维保服务公开招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/e2eab31d66584fda941b2d1655fcb26f.htm",
@@ -9427,8 +9449,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9440,9 +9462,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-25T11:57:40+08:00"
+   "fetched_at": "2026-11-25T13:05:28+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
