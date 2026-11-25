@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-25T09:55:06+08:00",
- "count": 990,
- "added": 1,
+ "updated_at": "2026-11-25T10:54:21+08:00",
+ "count": 991,
+ "added": 2,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,30 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]介入手术室大型医用设备购置维保服务公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/e2eab31d66584fda941b2d1655fcb26f.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京佑安医院",
+   "publish_date": "2026-11-25",
+   "address": "北京",
+   "enrich": true,
+   "category": "手术麻醉ICU",
+   "tags": [
+    "手术麻醉ICU",
+    "高值耗材",
+    "设备维保",
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "d522f5a25bab",
+   "status": "进行中",
+   "fetched_at": "2026-11-25T10:53:54+08:00",
+   "budget": "195万元",
+   "deadline": "2026-12-17 09:00"
+  },
   {
    "title": "[公开]北京清华长庚医院2025财政追加设备采购项目（二）（第3包）-招标公告",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/69517deb0e404f6dbf908daccc941bf0.htm",
@@ -9403,8 +9427,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9416,9 +9440,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-25T09:54:42+08:00"
+   "fetched_at": "2026-11-25T10:53:54+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
