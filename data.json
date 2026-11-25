@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T08:18:38+08:00",
+ "updated_at": "2026-11-25T09:55:06+08:00",
  "count": 990,
  "added": 1,
  "focus_categories": [
@@ -6548,7 +6548,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "d1d88386f5eb",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-09T17:01:31+08:00",
    "budget": "19.39034万元",
    "deadline": "2026-11-25 09:30"
@@ -6723,7 +6723,7 @@
    "subcat": "",
    "city": "北京",
    "id": "0098f6cd0525",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "958.66万元",
    "deadline": "2026-11-25 09:00"
@@ -6805,7 +6805,7 @@
    "subcat": "",
    "city": "北京",
    "id": "47c131beaef3",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "87.8万元",
    "deadline": "2026-11-25 09:30"
@@ -6848,7 +6848,7 @@
    "subcat": "",
    "city": "北京",
    "id": "00d7eac340eb",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "111.347万元",
    "deadline": "2026-11-25 09:30"
@@ -6996,7 +6996,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "096b9393be7e",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T13:52:38+08:00",
    "budget": "19.390340万元",
    "deadline": "2026-11-25 09:30"
@@ -7018,7 +7018,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "d2471cb77b1d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T13:52:38+08:00",
    "budget": "31.654124万元",
    "deadline": "2026-11-25 09:30"
@@ -7827,7 +7827,7 @@
    "subcat": "",
    "city": "北京",
    "id": "18d1de399ee6",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T18:25:23+08:00",
    "budget": "1280万元",
    "deadline": "2026-11-25 09:30"
@@ -7865,7 +7865,7 @@
    "subcat": "",
    "city": "北京",
    "id": "7fd92c5ab1f4",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T18:25:23+08:00",
    "budget": "916.53万元",
    "deadline": "2026-11-25 09:00"
@@ -7924,7 +7924,7 @@
    "subcat": "",
    "city": "北京",
    "id": "2e1dbafb4c04",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T18:25:23+08:00",
    "budget": "151.710811万元",
    "deadline": "2026-11-25 09:30"
@@ -8185,7 +8185,7 @@
    "subcat": "",
    "city": "北京",
    "id": "f3de9a0b179f",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T12:47:38+08:00",
    "budget": "594.2万元",
    "deadline": "2026-11-25 09:30"
@@ -8248,7 +8248,7 @@
    "subcat": "",
    "city": "北京",
    "id": "cddc5a701900",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T11:45:13+08:00",
    "budget": "594.200000万元",
    "deadline": "2026-11-25 09:30"
@@ -9026,7 +9026,7 @@
    "subcat": "",
    "city": "北京",
    "id": "813d48385dc9",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T17:55:59+08:00",
    "budget": "324万元",
    "deadline": "2026-11-25 09:00"
@@ -9149,7 +9149,7 @@
    "subcat": "",
    "city": "北京",
    "id": "2f56329f15d5",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-02T15:10:38+08:00",
    "budget": "324.000000万元",
    "deadline": "2026-11-25 09:00"
@@ -9403,8 +9403,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9416,9 +9416,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-25T08:18:15+08:00"
+   "fetched_at": "2026-11-25T09:54:42+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
