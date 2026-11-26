@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T07:47:14+08:00",
+ "updated_at": "2026-11-26T09:02:10+08:00",
  "count": 995,
  "added": 3,
  "focus_categories": [
@@ -6245,7 +6245,7 @@
    "subcat": "",
    "city": "北京",
    "id": "36ec4587fa16",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "240万元",
    "deadline": "2026-11-26 09:00"
@@ -6266,7 +6266,7 @@
    "subcat": "",
    "city": "北京",
    "id": "5e0a5a401504",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "4535.33万元",
    "deadline": "2026-11-26 09:00"
@@ -6371,7 +6371,7 @@
    "subcat": "",
    "city": "北京",
    "id": "b021285cfed7",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "40300万元",
    "deadline": "2026-11-26 08:30"
@@ -6411,7 +6411,7 @@
    "subcat": "",
    "city": "北京",
    "id": "ceaf794fdca3",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "249.66万元",
    "deadline": "2026-11-26 09:00"
@@ -7043,7 +7043,7 @@
    "subcat": "检验试剂（通用）",
    "city": "北京",
    "id": "0182371e3ead",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "55万元",
    "deadline": "2026-11-26 09:00"
@@ -8187,7 +8187,7 @@
    "subcat": "",
    "city": "北京",
    "id": "9b66759cf633",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-03T18:25:23+08:00",
    "budget": "180万元",
    "deadline": "2026-11-26 09:00"
@@ -9744,8 +9744,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
+   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9757,9 +9757,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "d046046c2b9b",
+   "id": "c9903e4a2318",
    "status": "进行中",
-   "fetched_at": "2026-11-26T07:46:55+08:00"
+   "fetched_at": "2026-11-26T09:01:46+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
