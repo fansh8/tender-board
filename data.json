@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-26T11:32:30+08:00",
- "count": 995,
- "added": 3,
+ "updated_at": "2026-11-26T13:01:34+08:00",
+ "count": 998,
+ "added": 6,
  "focus_categories": [
   "检验科"
  ],
@@ -16,6 +16,67 @@
   "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/index_3.htm: HTTPError HTTP Error 403: Forbidden"
  ],
  "items": [
+  {
+   "title": "[公开]市属医院成本管理服务项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/7450e2604e794412982a540a1aa91547.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "北京市医院管理中心(本级)",
+   "publish_date": "2026-11-26",
+   "address": "北京",
+   "enrich": true,
+   "category": "其他",
+   "tags": [],
+   "subcat": "",
+   "city": "北京",
+   "id": "f929f43c7f7e",
+   "status": "进行中",
+   "fetched_at": "2026-11-26T13:01:11+08:00",
+   "budget": "840万元",
+   "deadline": "2026-12-17 09:30"
+  },
+  {
+   "title": "[公开]2026北京同仁医院医用设备购置项目（二）纤维鼻咽喉镜公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/ac49242bc5aa465285188804480fc241.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京同仁医院",
+   "publish_date": "2026-11-26",
+   "address": "北京",
+   "enrich": true,
+   "category": "医疗设备",
+   "tags": [
+    "医疗设备"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "7c7f5ec99a31",
+   "status": "进行中",
+   "fetched_at": "2026-11-26T13:01:11+08:00",
+   "budget": "60万元",
+   "deadline": "2026-12-17 09:00"
+  },
+  {
+   "title": "[公开]北京中医医院布草洗涤服务项目公开招标公告",
+   "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/781c1c65046b410bac4e401baff2a3a9.htm",
+   "source": "北京市政府采购网",
+   "region": "北京",
+   "purchaser": "首都医科大学附属北京中医医院",
+   "publish_date": "2026-11-26",
+   "address": "北京",
+   "enrich": true,
+   "category": "后勤服务",
+   "tags": [
+    "后勤服务"
+   ],
+   "subcat": "",
+   "city": "北京",
+   "id": "7d1c207d850a",
+   "status": "进行中",
+   "fetched_at": "2026-11-26T13:01:11+08:00",
+   "budget": "621万元",
+   "deadline": "2026-12-17 09:00"
+  },
   {
    "title": "[公开]首都医科大学北京中医医院财政资金医用设备购置项目（第2、5、11包）-公开招...",
    "url": "http://www.ccgp-beijing.gov.cn/xxgg/sjxxgg/zbgg/2026/11/15575409d1424ef49cf459ba440bc717.htm",
@@ -9744,8 +9805,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9757,9 +9818,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-26T11:32:11+08:00"
+   "fetched_at": "2026-11-26T13:01:11+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
