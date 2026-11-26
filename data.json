@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T09:02:10+08:00",
+ "updated_at": "2026-11-26T10:23:17+08:00",
  "count": 995,
  "added": 3,
  "focus_categories": [
@@ -6308,7 +6308,7 @@
    "subcat": "",
    "city": "北京",
    "id": "336426dc7060",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "210万元",
    "deadline": "2026-11-26 09:30"
@@ -6329,7 +6329,7 @@
    "subcat": "",
    "city": "北京",
    "id": "1dcb8c9682bb",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "1000万元",
    "deadline": "2026-11-26 09:30"
@@ -6350,7 +6350,7 @@
    "subcat": "",
    "city": "北京",
    "id": "88321ffbbc30",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "202.3672万元",
    "deadline": "2026-11-26 09:30"
@@ -6392,7 +6392,7 @@
    "subcat": "",
    "city": "北京",
    "id": "debd69919311",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "2406.1万元",
    "deadline": "2026-11-26 09:30"
@@ -6432,7 +6432,7 @@
    "subcat": "",
    "city": "北京",
    "id": "35b2ef06b113",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T18:56:45+08:00",
    "budget": "1000万元",
    "deadline": "2026-11-26 09:30"
@@ -6493,7 +6493,7 @@
    "subcat": "",
    "city": "北京",
    "id": "f975b7dc93c7",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T16:34:43+08:00",
    "budget": "202.367200万元",
    "deadline": "2026-11-26 09:30"
@@ -6556,7 +6556,7 @@
    "subcat": "",
    "city": "北京",
    "id": "b83fce0a6e69",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T15:04:03+08:00",
    "budget": "2406.100000万元",
    "deadline": "2026-11-26 09:30"
@@ -6661,7 +6661,7 @@
    "subcat": "",
    "city": "北京",
    "id": "26e81a634485",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T12:53:33+08:00",
    "budget": "218万元",
    "deadline": "2026-11-26 09:30"
@@ -6703,7 +6703,7 @@
    "subcat": "",
    "city": "北京",
    "id": "5a5c82f0b79c",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T12:53:33+08:00",
    "budget": "10.5万元",
    "deadline": "2026-11-26 09:30"
@@ -6745,7 +6745,7 @@
    "subcat": "",
    "city": "北京",
    "id": "5b7314516f45",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T12:53:33+08:00",
    "budget": "218.000000万元",
    "deadline": "2026-11-26 09:30"
@@ -6829,7 +6829,7 @@
    "subcat": "",
    "city": "北京",
    "id": "ddb1947a97f7",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-05T10:50:49+08:00",
    "budget": "10.500000万元",
    "deadline": "2026-11-26 09:30"
@@ -7083,7 +7083,7 @@
    "subcat": "",
    "city": "北京",
    "id": "e6fd18c6d69d",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "3495.12万元",
    "deadline": "2026-11-26 09:30"
@@ -7167,7 +7167,7 @@
    "subcat": "",
    "city": "北京",
    "id": "2c55a21259a1",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "13.98万元",
    "deadline": "2026-11-26 09:30"
@@ -7210,7 +7210,7 @@
    "subcat": "",
    "city": "北京",
    "id": "fd52ac3745ca",
-   "status": "进行中",
+   "status": "已截止",
    "fetched_at": "2026-11-04T19:52:25+08:00",
    "budget": "584.8万元",
    "deadline": "2026-11-26 09:30"
@@ -9744,8 +9744,8 @@
    "deadline": "2026-11-23"
   },
   {
-   "title": "样本稀释液2025-JQ06-H5569项目单一来源公示",
-   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30414.html",
+   "title": "样本稀释液2025-JQ06-H5570项目单一来源公示",
+   "url": "https://zbcg.301hospital.com.cn/Admin-Portal-details-article_id-30415.html",
    "source": "301医院招标采购网",
    "region": "北京",
    "purchaser": "解放军总医院",
@@ -9757,9 +9757,9 @@
    "tags": [],
    "subcat": "",
    "city": "北京",
-   "id": "c9903e4a2318",
+   "id": "d046046c2b9b",
    "status": "进行中",
-   "fetched_at": "2026-11-26T09:01:46+08:00"
+   "fetched_at": "2026-11-26T10:22:59+08:00"
   },
   {
    "title": "电子内窥镜图像处理系统2026-JQ06-W3268项目谈判邀请函",
